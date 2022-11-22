@@ -1,27 +1,37 @@
 from bs4 import BeautifulSoup as bs
 import requests as req
-import html5lib
+import json
 
+def getQuestions():
+    url = "https://psychopathyis.org/screening/tripm/"
+    r = req.get(url)
+    soup = bs(r.text, "html.parser")
 
-url = "https://psychopathyis.org/screening/tripm/"
-r = req.get(url)
-soup = bs(r.text, "html5lib")
+    # scrape questions from psychopathyis.org
+    questions = []
+    for paragraph in soup.find_all('legend', class_="gfield_label"):
+        # replace "required" with empty string
+        text = paragraph.text.replace("(Required)","").replace("\u2019", "'").split(".", 1)
 
-# scrape questions from psychopathyis.org
-questions = []
-for paragraph in soup.find_all('legend', class_="gfield_label"):
-    # replace "required" with empty string
-    text = paragraph.text.replace("(Required)","")
-
-    question = { 
-        "Question": text,
-        "choose one": {
-            0: "true",
-            1: "somewhat true",
-            2: "somewhat false",
-            3: "false"
+        question = { 
+            "id": text[0],
+            "Question": text[1],
+            "choose one": {
+                0: "true",
+                1: "somewhat true",
+                2: "somewhat false",
+                3: "false"
+            }
         }
-     }
-    questions.append(question)
+        questions.append(question)
+    return questions
 
-print(questions)
+# create json file with questions
+def createJson():
+    data = {
+        'questions': getQuestions()[1:]
+    }
+    with open('../data/psychopath-screening.json', 'w') as file:
+        json.dump(data, file, indent=4)
+
+createJson()
