@@ -1,0 +1,584 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "Question": " I'm optimistic more often than not.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "2",
+            "Question": " How other people feel is important to me.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "3",
+            "Question": " I often act on immediate needs.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "4",
+            "Question": " I have no strong desire to parachute out of an airplane.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "5",
+            "Question": " I've often missed things I promised to attend.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "6",
+            "Question": " I would enjoy being in a high-speed chase.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "7",
+            "Question": " I am well-equipped to deal with stress.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "8",
+            "Question": " I don't mind if someone I dislike gets hurt.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "9",
+            "Question": " My impulsive decisions have caused problems with loved ones.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "10",
+            "Question": " I get scared easily.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "11",
+            "Question": " I sympathize with others' problems.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "12",
+            "Question": " I have missed work without bothering to call in.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "13",
+            "Question": " I'm a born leader.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "14",
+            "Question": " I enjoy a good physical fight.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "15",
+            "Question": " I jump into things without thinking.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "16",
+            "Question": " I have a hard time making things turn out the way I want.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "17",
+            "Question": " I return insults.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "18",
+            "Question": " I've gotten in trouble because I missed too much school.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "19",
+            "Question": " I have a knack for influencing people.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "20",
+            "Question": " It doesn't bother me to see someone else in pain.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "21",
+            "Question": " I have good control over myself.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "22",
+            "Question": " I function well in new situations, even when unprepared.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "23",
+            "Question": " I enjoy pushing people around sometimes.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "24",
+            "Question": " I have taken money from someone's purse or wallet without asking.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "25",
+            "Question": " I don't think of myself as talented.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "26",
+            "Question": " I taunt people just to stir things up.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "27",
+            "Question": " People often abuse my trust.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "28",
+            "Question": " I'm afraid of far fewer things than most people.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "29",
+            "Question": " I don't see any point in worrying if what I do hurts someone else.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "30",
+            "Question": " I keep appointments I make.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "31",
+            "Question": " I often get bored quickly and lose interest.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "32",
+            "Question": " I can get over things that would traumatize others.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "33",
+            "Question": " I am sensitive to the feelings of others.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "34",
+            "Question": " I have conned people to get money from them.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "35",
+            "Question": " It worries me to go into an unfamiliar situation without knowing all the details.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "36",
+            "Question": " I don't have much sympathy for people.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "37",
+            "Question": " I get in trouble for not considering the consequences of my actions.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "38",
+            "Question": " I can convince people to do what I want.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "39",
+            "Question": " For me, honesty really is the best policy.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "40",
+            "Question": " I've injured people to see them in pain.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "41",
+            "Question": " I don't like to take the lead in groups.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "42",
+            "Question": " I sometimes insult people on purpose to get a reaction from them.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "43",
+            "Question": " I have taken items from a store without paying for them.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "44",
+            "Question": " It's easy to embarrass me.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "45",
+            "Question": " Things are more fun if a little danger is involved.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "46",
+            "Question": " I have a hard time waiting patiently for things I want.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "47",
+            "Question": " I stay away from physical danger as much as I can.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "48",
+            "Question": " I don't care much if what I do hurts others.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "49",
+            "Question": " I have lost a friend because of irresponsible things I've done.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "50",
+            "Question": " I don't stack up well against most others.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "51",
+            "Question": " Others have told me they are concerned about my lack of self-control.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "52",
+            "Question": " It's easy for me to relate to other people's emotions.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "53",
+            "Question": " I have robbed someone.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "54",
+            "Question": " I never worry about making a fool of myself with others.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "55",
+            "Question": " It doesn't bother me when people around me are hurting.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "56",
+            "Question": " I have had problems at work because I was irresponsible.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "57",
+            "Question": " I'm not very good at influencing people.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        },
+        {
+            "id": "58",
+            "Question": " I have stolen something out of a vehicle.",
+            "choose one": {
+                "0": "true",
+                "1": "somewhat true",
+                "2": "somewhat false",
+                "3": "false"
+            }
+        }
+    ]
+}
