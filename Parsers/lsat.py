@@ -149,11 +149,11 @@ def lrData():
 # create json that saves all the data
 def createJson():
     data = {
-        'readingComp': rcData(),
+        'readingComprehension': rcData(),
         'analyticalReasoning': arData(),
         'logicalReasoning': lrData()
     }
-    with open('../data/lsat_data.json', 'w') as file:
+    with open('../data/lsat.json', 'w') as file:
         json.dump(data, file, indent=4)
 
 createJson()

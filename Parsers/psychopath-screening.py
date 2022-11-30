@@ -15,8 +15,8 @@ def getQuestions():
 
         question = { 
             "id": text[0],
-            "Question": text[1],
-            "choose one": {
+            "question": text[1],
+            "options": {
                 0: "true",
                 1: "somewhat true",
                 2: "somewhat false",

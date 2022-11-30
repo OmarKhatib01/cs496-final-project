@@ -2,8 +2,8 @@
     "questions": [
         {
             "id": " 1",
-            "Question": "Freely follow your gut instincts and exciting physical impulses as they come up.",
-            "choose one": {
+            "question": "Freely follow your gut instincts and exciting physical impulses as they come up.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -13,8 +13,8 @@
         },
         {
             "id": " 2",
-            "Question": "Offer various unrelated ideas and see what potential they might suggest.",
-            "choose one": {
+            "question": "Offer various unrelated ideas and see what potential they might suggest.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -24,8 +24,8 @@
         },
         {
             "id": " 3",
-            "Question": "Determine success by measurement or other objective method such as the time taken.",
-            "choose one": {
+            "question": "Determine success by measurement or other objective method such as the time taken.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -35,8 +35,8 @@
         },
         {
             "id": " 4",
-            "Question": "Feel inclined to be responsible for, and take care of, others' feelings.",
-            "choose one": {
+            "question": "Feel inclined to be responsible for, and take care of, others' feelings.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -46,8 +46,8 @@
         },
         {
             "id": " 5",
-            "Question": "Experience a premonition or foresee the distant future.",
-            "choose one": {
+            "question": "Experience a premonition or foresee the distant future.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -57,8 +57,8 @@
         },
         {
             "id": " 6",
-            "Question": "Notice whether the details in front of you match what you are accustomed to.",
-            "choose one": {
+            "question": "Notice whether the details in front of you match what you are accustomed to.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -68,8 +68,8 @@
         },
         {
             "id": " 7",
-            "Question": "Be guided by a definition, logical deduction, or other nugget of reasoning.",
-            "choose one": {
+            "question": "Be guided by a definition, logical deduction, or other nugget of reasoning.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -79,8 +79,8 @@
         },
         {
             "id": " 8",
-            "Question": "Feel strongly that something is good or bad.",
-            "choose one": {
+            "question": "Feel strongly that something is good or bad.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -90,8 +90,8 @@
         },
         {
             "id": " 9",
-            "Question": "Compassionately take on someone else's needs as your own.",
-            "choose one": {
+            "question": "Compassionately take on someone else's needs as your own.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -101,8 +101,8 @@
         },
         {
             "id": " 10",
-            "Question": "Construct an argument to convince someone using evidence clearly in front of you both.",
-            "choose one": {
+            "question": "Construct an argument to convince someone using evidence clearly in front of you both.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -112,8 +112,8 @@
         },
         {
             "id": " 11",
-            "Question": "Achieve a metamorphosis, definitive insight, or powerful vision of change.",
-            "choose one": {
+            "question": "Achieve a metamorphosis, definitive insight, or powerful vision of change.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -123,8 +123,8 @@
         },
         {
             "id": " 12",
-            "Question": "Compare an experience against a storehouse of familiar experiences to find what's reliable.",
-            "choose one": {
+            "question": "Compare an experience against a storehouse of familiar experiences to find what's reliable.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -134,8 +134,8 @@
         },
         {
             "id": " 13",
-            "Question": "Remain in touch with what you want for yourself, what motivates you, and what is good.",
-            "choose one": {
+            "question": "Remain in touch with what you want for yourself, what motivates you, and what is good.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -145,8 +145,8 @@
         },
         {
             "id": " 14",
-            "Question": "Apply leverage to a situation to solve a problem impersonally using minimal effort.",
-            "choose one": {
+            "question": "Apply leverage to a situation to solve a problem impersonally using minimal effort.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -156,8 +156,8 @@
         },
         {
             "id": " 15",
-            "Question": "Enjoy the thrill of action and physical experience in the present moment.",
-            "choose one": {
+            "question": "Enjoy the thrill of action and physical experience in the present moment.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -167,8 +167,8 @@
         },
         {
             "id": " 16",
-            "Question": "Enjoy playing with random interconnections and patterns.",
-            "choose one": {
+            "question": "Enjoy playing with random interconnections and patterns.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -178,8 +178,8 @@
         },
         {
             "id": " 17",
-            "Question": "Recognize and usually adhere to shared values, feelings, and social norms to get along.",
-            "choose one": {
+            "question": "Recognize and usually adhere to shared values, feelings, and social norms to get along.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -189,8 +189,8 @@
         },
         {
             "id": " 18",
-            "Question": "Conceive of a comprehensive plan to maximize progress toward multiple goals at once.",
-            "choose one": {
+            "question": "Conceive of a comprehensive plan to maximize progress toward multiple goals at once.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -200,8 +200,8 @@
         },
         {
             "id": " 19",
-            "Question": "Freely enjoy doing what you want for your own personal happiness.",
-            "choose one": {
+            "question": "Freely enjoy doing what you want for your own personal happiness.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -211,8 +211,8 @@
         },
         {
             "id": " 20",
-            "Question": "Concisely reference multiple frameworks at once while problem solving.",
-            "choose one": {
+            "question": "Concisely reference multiple frameworks at once while problem solving.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -222,8 +222,8 @@
         },
         {
             "id": " 21",
-            "Question": "Gain a profound realization from a mystical state or sudden release of emotions.",
-            "choose one": {
+            "question": "Gain a profound realization from a mystical state or sudden release of emotions.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -233,8 +233,8 @@
         },
         {
             "id": " 22",
-            "Question": "Follow steps to ensure tasks are predictable and completed correctly.",
-            "choose one": {
+            "question": "Follow steps to ensure tasks are predictable and completed correctly.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -244,8 +244,8 @@
         },
         {
             "id": " 23",
-            "Question": "Engage life's magical moments and meaningful coincidences as they happen. ",
-            "choose one": {
+            "question": "Engage life's magical moments and meaningful coincidences as they happen. ",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -255,8 +255,8 @@
         },
         {
             "id": " 24",
-            "Question": "Quickly move to take advantage of immediate options for action.",
-            "choose one": {
+            "question": "Quickly move to take advantage of immediate options for action.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -266,8 +266,8 @@
         },
         {
             "id": " 25",
-            "Question": "Always remain true to what you want for yourself or others.",
-            "choose one": {
+            "question": "Always remain true to what you want for yourself or others.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -277,8 +277,8 @@
         },
         {
             "id": " 26",
-            "Question": "Analyze and critique what doesn't fit with a well-defined principle.",
-            "choose one": {
+            "question": "Analyze and critique what doesn't fit with a well-defined principle.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -288,8 +288,8 @@
         },
         {
             "id": " 27",
-            "Question": "Review a lot of information over time to confirm what is customary or standard.",
-            "choose one": {
+            "question": "Review a lot of information over time to confirm what is customary or standard.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -299,8 +299,8 @@
         },
         {
             "id": " 28",
-            "Question": "Feel attracted to the symbolic, archetypal, or mysterious.",
-            "choose one": {
+            "question": "Feel attracted to the symbolic, archetypal, or mysterious.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -310,8 +310,8 @@
         },
         {
             "id": " 29",
-            "Question": "Instantly read visible cues to see just how far you can go.",
-            "choose one": {
+            "question": "Instantly read visible cues to see just how far you can go.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -321,8 +321,8 @@
         },
         {
             "id": " 30",
-            "Question": "Keep following tangents and new ideas without limiting yourself to one.",
-            "choose one": {
+            "question": "Keep following tangents and new ideas without limiting yourself to one.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -332,8 +332,8 @@
         },
         {
             "id": " 31",
-            "Question": "Follow a straight line of reasoning.                      ",
-            "choose one": {
+            "question": "Follow a straight line of reasoning.                      ",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -343,8 +343,8 @@
         },
         {
             "id": " 32",
-            "Question": "Help make people feel comfortable by engaging in hosting and care-taking.",
-            "choose one": {
+            "question": "Help make people feel comfortable by engaging in hosting and care-taking.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -354,8 +354,8 @@
         },
         {
             "id": " 33",
-            "Question": "Lay out methods for others to complete tasks in time- and resource-efficient ways.",
-            "choose one": {
+            "question": "Lay out methods for others to complete tasks in time- and resource-efficient ways.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -365,8 +365,8 @@
         },
         {
             "id": " 34",
-            "Question": "Readily communicate personally to all members of a group to feel unity.",
-            "choose one": {
+            "question": "Readily communicate personally to all members of a group to feel unity.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -376,8 +376,8 @@
         },
         {
             "id": " 35",
-            "Question": "Fine-tune a definition or concept to support a theory, perspective or framework.",
-            "choose one": {
+            "question": "Fine-tune a definition or concept to support a theory, perspective or framework.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -387,8 +387,8 @@
         },
         {
             "id": " 36",
-            "Question": "Evaluate what is worth believing in and most important to who you really are inside.",
-            "choose one": {
+            "question": "Evaluate what is worth believing in and most important to who you really are inside.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -398,8 +398,8 @@
         },
         {
             "id": " 37",
-            "Question": "Weave into the current dynamics of a situation aspects of other, random contexts.",
-            "choose one": {
+            "question": "Weave into the current dynamics of a situation aspects of other, random contexts.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -409,8 +409,8 @@
         },
         {
             "id": " 38",
-            "Question": "Spur action and pull off results simply by making your presence felt.",
-            "choose one": {
+            "question": "Spur action and pull off results simply by making your presence felt.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -420,8 +420,8 @@
         },
         {
             "id": " 39",
-            "Question": "Transform yourself by focusing inward on a specific way you foresee you will need to be.",
-            "choose one": {
+            "question": "Transform yourself by focusing inward on a specific way you foresee you will need to be.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -431,8 +431,8 @@
         },
         {
             "id": " 40",
-            "Question": "Fulfill the same regular work or activity everyday at a comfortable pace.",
-            "choose one": {
+            "question": "Fulfill the same regular work or activity everyday at a comfortable pace.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -442,8 +442,8 @@
         },
         {
             "id": " 41",
-            "Question": "Merge and feel intimate oneness with other people.",
-            "choose one": {
+            "question": "Merge and feel intimate oneness with other people.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -453,8 +453,8 @@
         },
         {
             "id": " 42",
-            "Question": "Stick to making decisions based on impersonal measures such as points earned.",
-            "choose one": {
+            "question": "Stick to making decisions based on impersonal measures such as points earned.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -464,8 +464,8 @@
         },
         {
             "id": " 43",
-            "Question": "Continually examine if choices harmonize with important beliefs.",
-            "choose one": {
+            "question": "Continually examine if choices harmonize with important beliefs.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -475,8 +475,8 @@
         },
         {
             "id": " 44",
-            "Question": "Take apart something to figure out the principles on which it works.",
-            "choose one": {
+            "question": "Take apart something to figure out the principles on which it works.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -486,8 +486,8 @@
         },
         {
             "id": " 45",
-            "Question": "Push your mental limits to complete an array of innovative achievements.",
-            "choose one": {
+            "question": "Push your mental limits to complete an array of innovative achievements.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -497,8 +497,8 @@
         },
         {
             "id": " 46",
-            "Question": "Point out discrepancies between how things are and the way they have always been.",
-            "choose one": {
+            "question": "Point out discrepancies between how things are and the way they have always been.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -508,8 +508,8 @@
         },
         {
             "id": " 47",
-            "Question": "Trust what emerges from brainstorming.",
-            "choose one": {
+            "question": "Trust what emerges from brainstorming.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",
@@ -519,8 +519,8 @@
         },
         {
             "id": " 48",
-            "Question": "Easily get in sync physically with people and things around you.",
-            "choose one": {
+            "question": "Easily get in sync physically with people and things around you.",
+            "options": {
                 "0": "not like me",
                 "1": "a little like me",
                 "2": "somewhat like me",

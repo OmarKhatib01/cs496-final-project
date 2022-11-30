@@ -22,8 +22,8 @@ def getQuestions():
         text = paragraph.text.split(". ", 1)[1].replace("\xa0","")
         question = { 
             "id": paragraph.text.split(". ", 1)[0],
-            "Question": text,
-            "choose one": options
+            "question": text,
+            "options": options
         }
         questions.append(question)
 
