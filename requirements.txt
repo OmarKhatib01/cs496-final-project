@@ -12,3 +12,6 @@ transformers
 torch
 torchvision
 
+# evaluation
+scipy
+pandas
