@@ -10,11 +10,11 @@ def getQuestions():
     questions = []
 
     options = {
-        0: "not like me",
-        1: "a little like me",
-        2: "somewhat like me",
-        3: "mostly like me",
-        4: "exactly like me"
+        'A': "not like me",
+        'B': "a little like me",
+        'C': "somewhat like me",
+        'D': "mostly like me",
+        'E': "exactly like me"
     }
 
     for paragraph in soup.find_all('p', align="top"):

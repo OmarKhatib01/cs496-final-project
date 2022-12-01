@@ -17,10 +17,10 @@ def getQuestions():
             "id": text[0],
             "question": text[1],
             "options": {
-                0: "true",
-                1: "somewhat true",
-                2: "somewhat false",
-                3: "false"
+                'A': "true",
+                'B': "somewhat true",
+                'C': "somewhat false",
+                'D': "false"
             }
         }
         questions.append(question)

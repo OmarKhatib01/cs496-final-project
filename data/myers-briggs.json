@@ -4,529 +4,673 @@
             "id": " 1",
             "question": "Freely follow your gut instincts and exciting physical impulses as they come up.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 2",
             "question": "Offer various unrelated ideas and see what potential they might suggest.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 3",
             "question": "Determine success by measurement or other objective method such as the time taken.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 4",
             "question": "Feel inclined to be responsible for, and take care of, others' feelings.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "D"
         },
         {
             "id": " 5",
             "question": "Experience a premonition or foresee the distant future.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "C",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 6",
             "question": "Notice whether the details in front of you match what you are accustomed to.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 7",
             "question": "Be guided by a definition, logical deduction, or other nugget of reasoning.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 8",
             "question": "Feel strongly that something is good or bad.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "D"
         },
         {
             "id": " 9",
             "question": "Compassionately take on someone else's needs as your own.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "D"
         },
         {
             "id": " 10",
             "question": "Construct an argument to convince someone using evidence clearly in front of you both.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "A",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 11",
             "question": "Achieve a metamorphosis, definitive insight, or powerful vision of change.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 12",
             "question": "Compare an experience against a storehouse of familiar experiences to find what's reliable.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 13",
             "question": "Remain in touch with what you want for yourself, what motivates you, and what is good.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 14",
             "question": "Apply leverage to a situation to solve a problem impersonally using minimal effort.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "C",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "E"
         },
         {
             "id": " 15",
             "question": "Enjoy the thrill of action and physical experience in the present moment.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 16",
             "question": "Enjoy playing with random interconnections and patterns.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 17",
             "question": "Recognize and usually adhere to shared values, feelings, and social norms to get along.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 18",
             "question": "Conceive of a comprehensive plan to maximize progress toward multiple goals at once.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 19",
             "question": "Freely enjoy doing what you want for your own personal happiness.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 20",
             "question": "Concisely reference multiple frameworks at once while problem solving.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "C",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "E"
         },
         {
             "id": " 21",
             "question": "Gain a profound realization from a mystical state or sudden release of emotions.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "E"
         },
         {
             "id": " 22",
             "question": "Follow steps to ensure tasks are predictable and completed correctly.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 23",
             "question": "Engage life's magical moments and meaningful coincidences as they happen. ",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "D"
         },
         {
             "id": " 24",
             "question": "Quickly move to take advantage of immediate options for action.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "D"
         },
         {
             "id": " 25",
             "question": "Always remain true to what you want for yourself or others.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 26",
             "question": "Analyze and critique what doesn't fit with a well-defined principle.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "A",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "E"
         },
         {
             "id": " 27",
             "question": "Review a lot of information over time to confirm what is customary or standard.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 28",
             "question": "Feel attracted to the symbolic, archetypal, or mysterious.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 29",
             "question": "Instantly read visible cues to see just how far you can go.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "B",
+            "text-babbage-001 Answer": "E"
         },
         {
             "id": " 30",
             "question": "Keep following tangents and new ideas without limiting yourself to one.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 31",
             "question": "Follow a straight line of reasoning.                      ",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 32",
             "question": "Help make people feel comfortable by engaging in hosting and care-taking.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 33",
             "question": "Lay out methods for others to complete tasks in time- and resource-efficient ways.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 34",
             "question": "Readily communicate personally to all members of a group to feel unity.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 35",
             "question": "Fine-tune a definition or concept to support a theory, perspective or framework.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 36",
             "question": "Evaluate what is worth believing in and most important to who you really are inside.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 37",
             "question": "Weave into the current dynamics of a situation aspects of other, random contexts.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 38",
             "question": "Spur action and pull off results simply by making your presence felt.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 39",
             "question": "Transform yourself by focusing inward on a specific way you foresee you will need to be.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 40",
             "question": "Fulfill the same regular work or activity everyday at a comfortable pace.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 41",
             "question": "Merge and feel intimate oneness with other people.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 42",
             "question": "Stick to making decisions based on impersonal measures such as points earned.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "A",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 43",
             "question": "Continually examine if choices harmonize with important beliefs.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "D"
         },
         {
             "id": " 44",
             "question": "Take apart something to figure out the principles on which it works.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "C",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "A"
         },
         {
             "id": " 45",
             "question": "Push your mental limits to complete an array of innovative achievements.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 46",
             "question": "Point out discrepancies between how things are and the way they have always been.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 47",
             "question": "Trust what emerges from brainstorming.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "C"
         },
         {
             "id": " 48",
             "question": "Easily get in sync physically with people and things around you.",
             "options": {
-                "0": "not like me",
-                "1": "a little like me",
-                "2": "somewhat like me",
-                "3": "mostly like me",
-                "4": "exactly like me"
-            }
+                "A": "not like me",
+                "B": "a little like me",
+                "C": "somewhat like me",
+                "D": "mostly like me",
+                "E": "exactly like me"
+            },
+            "text-davinci-003 Answer": "D",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "C"
         }
     ]
 }

@@ -13,7 +13,10 @@
                         "D. The passage is an analysis of another theory in which the author has no stake in.",
                         "E. The passage is a summary of a main topic from its historical beginnings to its contemplated end."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "2",
@@ -25,7 +28,10 @@
                         "D. Poetry is on the verge of vanishing from our cultural consciousness.",
                         "E. Poetry is a writing art. While poetry performances are useful for introducing poems, the act of reading a poem does not contribute to the piece overall."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "D"
                 },
                 {
                     "id": "3",
@@ -37,7 +43,10 @@
                         "D. Infrequently",
                         "E. Impecunious"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "4",
@@ -49,7 +58,10 @@
                         "D. An individual's assertion that video game violence was the cause of the Columbine shootings.",
                         "E. A student's insistence that psychoanalysis is a subset of modern psychology."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "5",
@@ -61,7 +73,10 @@
                         "D. To prove that Gioia's article does have some truth to it and to shed light on its relevance to modern poetry.",
                         "E. To recount the experience of watching a live poetry performance and to look forward to future performances."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "D"
                 },
                 {
                     "id": "6",
@@ -73,7 +88,10 @@
                         "D. To illustrate the complex themes poets continue to address, which still draw listeners and appreciation.",
                         "E. To open up opportunity to disprove Gioia's views."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -90,7 +108,10 @@
                         "D. Exuberant",
                         "E. Superfluous"
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "id": "8",
@@ -102,7 +123,10 @@
                         "D. To reflect on opposing views of human understanding.",
                         "E. To disprove classical philosophy by comparing more accurate technology to the speculations of the ancient philosophers."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "9",
@@ -114,7 +138,10 @@
                         "D. It gives a definition, offers an explanation, and then ends with an inquiry.",
                         "E. It presents a problem, offers an example, and then ends with a solution."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "10",
@@ -126,7 +153,10 @@
                         "D. The person observing must be unbiased.",
                         "E. The person observing must prove their theory beyond a doubt."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "11",
@@ -138,7 +168,10 @@
                         "D. The electrons were seen passing through one hole or the other.",
                         "E. The electrons were glowing during the experiment, indicating light waves were moving them."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "12",
@@ -150,7 +183,10 @@
                         "D. To show an alternative solution to the nature of electrons that humans have not thought of yet.",
                         "E. To look toward the future of technology so that we may understand the dual nature of all phenomena, including gravity."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "13",
@@ -162,7 +198,10 @@
                         "D. In order to better examine and treat broken bones, the x-ray machine was invented and put to use in hospitals and medical centers.",
                         "E. A man is born color-blind and grows up observing everything in lighter or darker shades. With the invention of special goggles he puts on, he discovers that there are other colors in addition to different shades."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "14",
@@ -174,7 +213,10 @@
                         "D. Studying certain phenomena necessitates the use of tools and machines.",
                         "E. Classical observation still serves a function in our world."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -191,7 +233,10 @@
                         "D. The act of reaching Sainthood.",
                         "E. God's divine favor for one's righteousness."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "16",
@@ -203,7 +248,10 @@
                         "D. Within each individual tale in The Canterbury Tales, the reader has the opportunity to read about different levels of Boethianism and how each level leads to greater enlightenment.",
                         "E. Chaucer, who wrote The Canterbury Tales, was a devoted Boethianist."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "17",
@@ -215,7 +263,10 @@
                         "D. The principle that a desire for material goods leads to moral malfeasance punishable by a higher being.",
                         "E. The principle that wealth is impossible to enjoy when one has been corrupted in the pursuit of it."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "D"
                 },
                 {
                     "id": "18",
@@ -227,7 +278,10 @@
                         "D. Pompousness",
                         "E. Capriciousness"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "19",
@@ -239,7 +293,10 @@
                         "D. Desire for pleasure can lead toward sin.",
                         "E. Desire is the result of original sin."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -256,7 +313,10 @@
                         "D. To argue that the use of assault is more common than the use of lethal force.",
                         "E. The author is recounting an incident in which they were assaulted."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "21",
@@ -268,7 +328,10 @@
                         "D. A woman punches another woman in a bar.",
                         "E. A driver accidently slams into another person's car and injures them."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "22",
@@ -280,7 +343,10 @@
                         "D. Assault is justified only as a last resort.",
                         "E. Assault charges are more severe than unnecessary use of force charges."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "23",
@@ -292,7 +358,10 @@
                         "D. The use of lethal force is not evaluated on the intent of the user, but rather the severity of the primary attack that warranted self-defense.",
                         "E. It's important to note that once lethal force goes beyond the necessary attempt to protect oneself, there's a chance it could turn into a deadly assault of excessive force."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "24",
@@ -304,7 +373,10 @@
                         "D. If someone uses self-defense in a conflict, it is called deadly force; if actions or threats are intended, it is called assault.",
                         "E. Assault and lethal force have no conceivable connection."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "25",
@@ -316,7 +388,10 @@
                         "D. Both cite specific legal doctrines, then proceed to explain the rulings.",
                         "E. The first passage explains both concepts and then focuses on lethal force. The second passage picks up with assault and explains the concept in depth."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "26",
@@ -328,7 +403,10 @@
                         "D. The intent of the assailant is the main focus for determining legal ramifications; it is used to determine if the defender was justified in using force to respond.",
                         "E. Intent is very important for determining both lethal force and assault; intent is examined in both parties and helps determine the severity of the issue."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "27",
@@ -340,7 +418,10 @@
                         "D. To suggest that verbal assault can be an exaggerated crime by the law and does not necessarily lead to physical violence.",
                         "E. To demonstrate that threatening body language is only considered a type of assault if it leads to physical violence."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -357,7 +438,10 @@
                         "D. a defender of the study of humanities in \"modern\" schooling as it relates to the study of literature only, namely Greek and Roman texts.",
                         "E. a defender of the study of humanities in \"modern\" schooling as it relates to the axioms of Professor Huxley."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "29",
@@ -369,7 +453,10 @@
                         "D. Passage A is written in response to passage B; passage A offers a concession of passage B's argument by showing that Greek and Roman literature can be studied alongside natural knowledge.",
                         "E. Passage A is written in response to passage B; passage A is supportive of the argument of passage B with a few exceptions."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "30",
@@ -381,7 +468,10 @@
                         "D. whether art should be used for its intrinsic nature or for political purposes.",
                         "E. classical literature lends itself to the progression of future generations."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         }
@@ -400,7 +490,10 @@
                         "D. Robert's space is farther from the door than Quincy's space.",
                         "E. Olivia's space is next to Sasha's space."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "2",
@@ -412,7 +505,10 @@
                         "D. Quincy",
                         "E. Sasha"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "3",
@@ -424,7 +520,10 @@
                         "D. Robert",
                         "E. Sasha"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "4",
@@ -436,7 +535,10 @@
                         "D. Olivia's space is next to Pablo's.",
                         "E. Nan is in one of the two middle spaces."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "D"
                 },
                 {
                     "id": "5",
@@ -448,7 +550,10 @@
                         "D. Olivia, Sasha, Nan, Quincy, Pablo, Robert",
                         "E. Pablo, Sasha, Quincy, Robert, Olivia, Nan"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "6",
@@ -460,7 +565,10 @@
                         "D. Robert",
                         "E. Sasha"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 }
             ]
         },
@@ -477,7 +585,10 @@
                         "D. Kim: One tofu, one steakLester: One tofu, one avocado, one fishMarlo: Two tofu, two steak, one avocado",
                         "E. Kim: Two tofu, one steakLester: One tofu, one avocadoMarlo: One tofu, two steak, one avocado, one fish"
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "8",
@@ -489,7 +600,10 @@
                         "D. Marlo ordered two tofu tacos.",
                         "E. Marlo ordered two avocado tacos."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "9",
@@ -501,7 +615,10 @@
                         "D. Lester and Marlo",
                         "E. Kim, Lester, and Marlo"
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "10",
@@ -513,7 +630,10 @@
                         "D. Marlo ordered two tofu tacos.",
                         "E. Marlo ordered three tofu tacos."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "11",
@@ -525,7 +645,10 @@
                         "D. Exactly two customers ordered more than one of the same type of taco.",
                         "E. Marlo ordered more steak tacos than he ordered tofu tacos."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "12",
@@ -537,7 +660,10 @@
                         "D. Two tofu",
                         "E. One tofu, one fish"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 }
             ]
         },
@@ -554,7 +680,10 @@
                         "D. Zoe, Jayne, Bridget",
                         "E. Malcolm, Simon"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "14",
@@ -566,7 +695,10 @@
                         "D. Kaylee and Jayne",
                         "E. Zoe and Bridget"
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "15",
@@ -578,7 +710,10 @@
                         "D. Bridget, Jayne, and Zoe",
                         "E. Bridget, Jayne, Malcolm, and Simon"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "16",
@@ -590,7 +725,10 @@
                         "D. Bridget, Kaylee, and Zoe",
                         "E. Bridget, Kaylee, Malcolm, and Simon"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "17",
@@ -602,7 +740,10 @@
                         "D. Malcolm goes to register voters.",
                         "E. Bridget stays in the office."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "18",
@@ -614,7 +755,10 @@
                         "D. Bridget, Jayne, Kaylee, and Zoe",
                         "E. Malcolm, Simon, Zoe, and Kaylee"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "E"
                 }
             ]
         },
@@ -631,7 +775,10 @@
                         "D. Exactly two companies get their fourth choice.",
                         "E. Exactly three companies get their fourth choice."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "20",
@@ -643,7 +790,10 @@
                         "D. V, W, U, T",
                         "E. T, U, W, V"
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "21",
@@ -655,7 +805,10 @@
                         "D. V picked second.",
                         "E. W picked before U."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "22",
@@ -667,7 +820,10 @@
                         "D. Exactly two companies got their second choice.",
                         "E. Exactly two companies got their third choice."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "23",
@@ -679,7 +835,10 @@
                         "D. At least one company got their third choice.",
                         "E. At least one company got their first choice."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "24",
@@ -691,7 +850,10 @@
                         "D. Company U goes at 4 p.m.",
                         "E. Company W goes at 11 a.m."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "E"
                 }
             ]
         },
@@ -708,7 +870,10 @@
                         "D. Claire",
                         "E. Patricia"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "E"
                 },
                 {
                     "id": "26",
@@ -720,7 +885,10 @@
                         "D. Tommy and Patricia",
                         "E. Patricia and Claire"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "id": "27",
@@ -732,7 +900,10 @@
                         "D. Patricia and Tristan",
                         "E. John and Claire"
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "28",
@@ -744,7 +915,10 @@
                         "D. Claire and Patricia",
                         "E. Tommy and Patricia"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "id": "29",
@@ -756,7 +930,10 @@
                         "D. Tommy and Sofia",
                         "E. John and Patricia"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "E",
+                    "text-babbage-001 Answer": "E"
                 }
             ]
         },
@@ -773,7 +950,10 @@
                         "D. 4",
                         "E. 5"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         }
@@ -792,7 +972,10 @@
                         "D. John's father, brothers, and male cousins all look like professional bodybuilders, and none of them have ever worked out.",
                         "E. John works out five times every week."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -809,7 +992,10 @@
                         "D. Being a professional writer does not require earning money.",
                         "E. Hank writes ten thousand words per day."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -826,7 +1012,10 @@
                         "D. Giant Pharma's high stock prices are attributable to recent patent acquisitions other than Quillium.",
                         "E. Quillium has numerous alternate applications."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -843,7 +1032,10 @@
                         "D. Infinite Jest will stand the test of time.",
                         "E. Infinite Jest is a modern classic for good reason, and everybody should read it."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -860,7 +1052,10 @@
                         "D. Julia only started working two weeks before the valuation.",
                         "E. Julia completed two important projects during her first month with the company."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -877,7 +1072,10 @@
                         "D. People generally prefer to read children's series than historical fiction.",
                         "E. The children's author has started to decline in popularity and has probably reached her height in fame."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "D"
                 }
             ]
         },
@@ -894,7 +1092,10 @@
                         "D. Ronan is smart.",
                         "E. Ronan's professors were unqualified to teach the law."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "E"
                 }
             ]
         },
@@ -911,7 +1112,10 @@
                         "D. The advertisement relies on shoddy science.",
                         "E. The advertisement makes an unreasonable logical leap."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -928,7 +1132,10 @@
                         "D. Jake never took a class on insider trading.",
                         "E. No investment bank has ever been formally charged with insider trading."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -945,7 +1152,10 @@
                         "D. Theresa lost her job on Monday, but she received an unsolicited offer to consult for a hedge fund that same day. Therefore, losing one job led to another one.",
                         "E. Tammy overslept and missed her early class. That same day, she experienced car trouble and missed her night class. Therefore, Tammy did not go to school today."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "D"
                 }
             ]
         },
@@ -962,7 +1172,10 @@
                         "D. Austria would have started the war.",
                         "E. The world powers would still be in complicated and convoluted military alliances."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -979,7 +1192,10 @@
                         "D. Removing helmets would reduce head collisions by fifty percent.",
                         "E. No matter the danger, there will always be players willing to sign waivers and play."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -996,7 +1212,10 @@
                         "D. Whether the team deserved to win the game.",
                         "E. Whether the team rose to the challenge."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1013,7 +1232,10 @@
                         "D. Kimmy is a highly compensated and extremely popular television and movie actress.",
                         "E. The paparazzi track Kimmy's every move for good reason."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1030,7 +1252,10 @@
                         "D. The argument makes a hasty generalization.",
                         "E. The argument confuses correlation with causation."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "D"
                 }
             ]
         },
@@ -1047,7 +1272,10 @@
                         "D. The argument proceeds by stating a general fact, offering specific anecdotes, and then drawing a conclusion.",
                         "E. The argument proceeds by stating several facts, offering a universal rule, and then drawing a conclusion by applying the facts to the rule."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "D"
                 }
             ]
         },
@@ -1064,7 +1292,10 @@
                         "D. The argument confuses correlation with causation.",
                         "E. The argument relies on an inappropriate expert."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1081,7 +1312,10 @@
                         "D. Gob is a below average magician.",
                         "E. Bobo works in a densely populated city, while Gob works in a rural town."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1098,7 +1332,10 @@
                         "D. Cindy only braids her hair on Christmas.",
                         "E. Cindy only braids her hair on holidays."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1115,7 +1352,10 @@
                         "D. Lawyer: Some clients enjoy written updates, while others prefer to be updated on the phone. The best lawyers adapt to their clients' needs. If a client's preference can't be discerned, then it's always best to first call and then follow up with written notice. I highly prefer talking on the phone.",
                         "E. Writer: Some writers prefer to type their stories, while others prefer handwriting them. The best writers always type since they can easily identify errors and edit more effectively. If a writer only writes by hand, then his or her work is always worse than those who type. I will never write my stories by hand."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1132,7 +1372,10 @@
                         "D. If Jackie did not have a felony conviction, she would be serving as the President of the Executive Council.",
                         "E. The felony charge on which Jackie was convicted is relevant to the President of the Executive Council's duties."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1149,7 +1392,10 @@
                         "D. It is generally preferable to wear mouth guards while playing contact sports.",
                         "E. Mouth guards should always be worn during contact sports."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "D"
                 }
             ]
         },
@@ -1166,7 +1412,10 @@
                         "D. Improperly uses extreme language.",
                         "E. Dismisses all evidence that contradicts the law student's argument."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1183,7 +1432,10 @@
                         "D. It ties the argument's reasoning together.",
                         "E. It distracts the reader from the argument's primary purpose."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1200,7 +1452,10 @@
                         "D. Most people will not be able to afford these prescriptions since the majority of healthcare plans will not cover the new drugs.",
                         "E. Nutritious food is not readily available to many people suffering from obesity."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1217,7 +1472,10 @@
                         "D. The Roman Empire would have collapsed earlier without enslaving new peoples.",
                         "E. Conquered people welcomed their new lives as slaves."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "E"
                 }
             ]
         },
@@ -1234,7 +1492,10 @@
                         "D. Financial stress and restricted study time affect students' academic performance similarly.",
                         "E. Students who take out loans maintain higher grade point averages than those who work to finance school."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1251,7 +1512,10 @@
                         "D. Become very interested in evaluating the events of the last decade.",
                         "E. Throw a big party."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1268,7 +1532,10 @@
                         "D. Carlos visits his grandmother every weekend. She's an old bitter woman, and the rest of her family refuses to visit her except on special occasions. However, Carlos started practicing a new religion, which demands its followers respect the elderly.",
                         "E. Every weekend, Arianna volunteers at a soup kitchen run by her church. She also donates a substantial part of her paycheck to children's cancer charities."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1285,7 +1552,10 @@
                         "D. Angela's Hair Salon employs the town's best hairdresser, whose skills are well known in the community.",
                         "E. Angela's Hair Salon has an enormous sign that is visible for miles down the road."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1302,7 +1572,10 @@
                         "D. An actor starts brushing his teeth with new special whitening toothpaste that contains several known carcinogens.",
                         "E. A couple joins a gym to start running more."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1319,7 +1592,10 @@
                         "D. It was below freezing during the week before his doctor's appointment, and Jacob did not wear his winter coat.",
                         "E. Jacob's wife was sick with the flu during the week before his appointment."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1336,7 +1612,10 @@
                         "D. Businesses often have other departments besides marketing, communications, and sales.",
                         "E. The company in question has a strong sales team."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1353,7 +1632,10 @@
                         "D. All of the country's leaders have bootstrapped their way to the top.",
                         "E. Immigrants founded the country."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1370,7 +1652,10 @@
                         "D. Geoffrey read the Boy Wizard Chronicles' reviews and drank a bottle of water during the show.",
                         "E. Geoffrey watched the Boy Wizard Chronicles' trailer and drank a bottle of water during the show."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "D"
                 }
             ]
         },
@@ -1387,7 +1672,10 @@
                         "D. Advertising is extremely important.",
                         "E. Advertising is extremely manipulative."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1404,7 +1692,10 @@
                         "D. The United States should pre-emptively invade the Middle East.",
                         "E. The United States should make a strategic plan to employ, should an imminent threat to its security develop."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1421,7 +1712,10 @@
                         "D. The teacher fails to consider competing theories.",
                         "E. The teacher is biased."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1438,7 +1732,10 @@
                         "D. Aside from the SWAT units, the police department is largely incompetent.",
                         "E. The police department focuses more on crimes involving serious injury or significant property damage."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1455,7 +1752,10 @@
                         "D. Tar is the reason why cigarettes are unhealthy.",
                         "E. Although all of the information is not yet available, electronic cigarettes are promising alternatives to tobacco since the former does not produce tar."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1472,7 +1772,10 @@
                         "D. Brittany's dog is half Labrador retriever and half German shepherd.",
                         "E. Brittany's dog is half Labrador retriever and half German shepherd, and her dog is also easy to train."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1489,7 +1792,10 @@
                         "D. Moral societies should guarantee that all their members' basic needs are met.",
                         "E. Studies show that most crimes involve food theft and trespassing."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1506,7 +1812,10 @@
                         "D. Performing compound movements is the only way to break down and rebuild stronger muscle fibers.",
                         "E. Regular weightlifting is necessary for good health."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1523,7 +1832,10 @@
                         "D. Political protests in neighboring countries often shorten workdays and limit productivity.",
                         "E. The West Korean autocratic despot devotes all of his time to solving economic problems."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1540,7 +1852,10 @@
                         "D. People would be happier.",
                         "E. College attendance would probably decline."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1557,7 +1872,10 @@
                         "D. Increasing disposable income is the only way to ensure economic growth.",
                         "E. Economic growth is more important than supporting social welfare programs."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "A"
                 }
             ]
         },
@@ -1574,7 +1892,10 @@
                         "D. Germany's economy is the strongest it's been since the end of World War II. Over the last decade, the country's Gross Domestic Product\u00e2\u0080\u0094the monetary value of all finished goods and services produced within a country's borders\u00e2\u0080\u0094has increased by between 2 and 4 percent. Germany's economic growth is a result of inclusive democratic processes.",
                         "E. Tito is the top ranked surfer in the world. Las Vegas bookmakers listed him as a clear favorite to win the upcoming invitational tournament. Tito is more likely to win the invitational than any other surfer."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 }
             ]
         },
@@ -1591,7 +1912,10 @@
                         "D. A recent study comparing the brain scans of large mammals revealed that big cats exhibit the most brain activity when stimulated.",
                         "E. Zoos devote exponentially more resources to big cats relative to other animals."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1608,7 +1932,10 @@
                         "D. Tanya is a millionaire.",
                         "E. Tanya works for the public sector."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1625,7 +1952,10 @@
                         "D. justified in light of the unprecedented national emergency.",
                         "E. illegal under the Constitution of the United States."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1642,7 +1972,10 @@
                         "D. American democracy is dependent on fast Internet connections.",
                         "E. American democracy is dependent on news networks free from content discrimination."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1659,7 +1992,10 @@
                         "D. National paper companies poached Dwight's customers, causing the decline in sales.",
                         "E. The paper industry's decline is due to the digitalization of business records."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "D"
                 }
             ]
         },
@@ -1676,7 +2012,10 @@
                         "D. Using more baseballs raised the operating expense for Major League Baseball teams.",
                         "E. Dirty baseballs move unnaturally and erratically, rendering them more difficult to hit."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1693,7 +2032,10 @@
                         "D. Recycling benefits the economy, as manufacturers can reuse materials at lower costs.",
                         "E. Recycling one aluminum can saves the equivalent amount of energy needed to power a television for three hours."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "E",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1710,7 +2052,10 @@
                         "D. There is more competition for advertising time on the Internet.",
                         "E. The firm pays more for Internet advertising than for television advertising."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1727,7 +2072,10 @@
                         "D. It confuses causation with correlation.",
                         "E. It relies on a hasty generalization."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1744,7 +2092,10 @@
                         "D. Some video games depict violence and everything depicting violence harms society in some way. As a result, all video games should be banned.",
                         "E. Farms and fisheries are similar. All farms produce food, and all fisheries produce food."
                     ],
-                    "answer": "E"
+                    "answer": "E",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1761,7 +2112,10 @@
                         "D. A company starts every new employee with the same salary. Tyrone and Samantha are new hires, and both recently received their first raise. Tyrone's raise was 25%, while Samantha received a 10% raise. Therefore, Tyrone now makes more money than Samantha.",
                         "E. A salesman's salary is entirely dependent on commission from sales. This year, he set a record for sales, so he will make more money than ever before."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1778,7 +2132,10 @@
                         "D. John reads more than twelve books per year.",
                         "E. John reads six books per year."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         }
