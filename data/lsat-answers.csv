@@ -1,0 +1,103 @@
+,text-davinci-003,text-curie-001,text-babbage-001
+readingComprehension,"0     C
+1     C
+2     C
+3     B
+4     C
+     ..
+83    C
+84    D
+85    C
+86    E
+87    C
+Length: 88, dtype: object","0     C
+1     C
+2     C
+3     B
+4     C
+     ..
+84    D
+85    C
+86    E
+87    C
+88    C
+Length: 89, dtype: object","0     C
+1     C
+2     C
+3     B
+4     C
+     ..
+85    C
+86    E
+87    C
+88    C
+89    C
+Length: 90, dtype: object"
+analyticalReasoning,"0     C
+1     C
+2     E
+3     D
+4     E
+     ..
+83    C
+84    E
+85    E
+86    E
+87    B
+Length: 88, dtype: object","0     C
+1     C
+2     E
+3     D
+4     E
+     ..
+84    E
+85    E
+86    E
+87    B
+88    C
+Length: 89, dtype: object","0     C
+1     C
+2     E
+3     D
+4     E
+     ..
+85    E
+86    E
+87    B
+88    C
+89    C
+Length: 90, dtype: object"
+logicalReasoning,"0      B
+1      C
+2      C
+3      C
+4      B
+      ..
+170    C
+171    D
+172    C
+173    C
+174    A
+Length: 175, dtype: object","0      B
+1      C
+2      C
+3      C
+4      B
+      ..
+171    D
+172    C
+173    C
+174    A
+175    C
+Length: 176, dtype: object","0      B
+1      C
+2      C
+3      C
+4      B
+      ..
+172    C
+173    C
+174    A
+175    C
+176    C
+Length: 177, dtype: object"
