@@ -5,25 +5,49 @@ import pandas as pd
 
 # get answers for each model from each dataset
 def getAnswersJson():
-    datasets = ['lsat.json', 'myers-briggs.json', 'psychopath-screening.json']
+    files=['myers-briggs.json','lsat.json','psychopath-screening.json']
     models = ['text-davinci-003', 'text-curie-001', 'text-babbage-001']
     # get data from data folder 
-    for file in os.listdir('../data/'):
+    for file in files:
         with open('../data/' + file) as json_file:
             data = json.load(json_file)
+            # get answers for each file
+            answers = getAnswers(file, data, models)
+            # write answers to csv
+            filename = file.split('.')[0] + '-answers.csv'
+            answers.to_csv(f'../data/{filename}')
     return
 
-def getAnswers(file, data, model):
-    answers = pd.DataFrame()
+def getAnswers(file, data, models):
     if file == 'lsat.json':
-        # lsat categories
         categories = ['readingComprehension', 'analyticalReasoning', 'logicalReasoning']
+        answers = {model: {category: [] for category in categories} for model in models}
         for category in categories:
-            answers[category] = []
+            answerList = []
             for j in range(len(data[category])):
                 for k in range(len(data[category][j]['questions'])):
-                    answers[category].append(data[category][j]['questions'][k][f'{model} Answer'])
-    print(answers)
+                    for model in models:
+                        # get answers from json
+                        answer = data[category][j]['questions'][k][f'{model} Answer']
+                        answerList.append(answer)
+                        # append answers to dataframe
+                        answers[model][category] = pd.Series(answerList)
+                        # turn dictionary into dataframe
+                        answers = pd.DataFrame(answers)
+
+    else:
+        answers = pd.DataFrame({model: [] for model in models})
+        for model in models:
+            answerList = []
+            for i in range(len(data['questions'])):
+                # get answers from json
+                answer = data['questions'][i][f'{model} Answer']
+                answerList.append(answer)
+
+                # append answers to dataframe
+                answers[model] = pd.Series(answerList)
+    # print(answers)
+    return answers
 
 # get statistics for each model on each dataset
 def getStatistics(model, dataset):
@@ -38,6 +62,10 @@ def getStatistics(model, dataset):
 # get average accuracy for each model
 # get average accuracy for each dataset
 # get average accuracy for each model for each dataset
-with open('../data/lsat.json') as json_file:
-    data = json.load(json_file)
-getAnswers('lsat.json', data, 'text-davinci-003')
+
+
+# with open('../data/lsat.json') as json_file:
+#     data = json.load(json_file)
+# getAnswers('lsat.json', data, ['text-davinci-003', 'text-curie-001', 'text-babbage-001'])
+
+getAnswersJson()
