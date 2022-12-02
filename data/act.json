@@ -11,7 +11,10 @@
                         "C. an unidentified narrator describing a man who devoted his life to neighborhood children years after his own difficult childhood.",
                         "D. an admiring relative of a man whose generosity with children was widely respected in the neighborhood where he turned around a declining community center."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "It can reasonably be inferred from the passage that which of the following is a cherished dream that Abshu expects to make a reality in his lifetime?",
@@ -21,7 +24,10 @@
                         "C. Building on the success of the community center by opening other centers like it throughout the state",
                         "D. Expanding for some, if not all, of the children the vision they have of themselves and their futures"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "It can reasonably be inferred from the passage that Abshu and the Masons would agree with which of the following statements about the best way to raise a child?",
@@ -31,7 +37,10 @@
                         "C. For a child to thrive and be a responsible member of society, he or she must develop a sense of discipline.",
                         "D. For a child to achieve greatness, he or she must attach importance to the community and not to the self."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The fourth paragraph (lines 31\u201337) establishes all of the following EXCEPT:",
@@ -41,7 +50,10 @@
                         "C. how Mother Mason felt about the location of their house.",
                         "D. what Abshu remembered most about his years with the Masons."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "It can reasonably be inferred that which of the following characters from the passage lives according to Abshu\u2019s definition of a life fully lived?",
@@ -51,7 +63,10 @@
                         "C. Abshu as a child",
                         "D. Abshu as an adult"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "Which of the following statements about the children entering the community center is supported by the passage?",
@@ -61,7 +76,10 @@
                         "C. In Abshu\u2019s eyes, the children who were likely to succeed were the ones who gave him the most trouble at the outset.",
                         "D. They were prepared to believe in each other more than in themselves."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "It can reasonably be inferred from the first paragraph that in obtaining outside funding for the community center, Abshu could be characterized as:",
@@ -71,7 +89,10 @@
                         "C. excited about having the children write grant applications.",
                         "D. determined to let the children decide how the money would be spent."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "Which of the following statements about Abshu\u2019s attitude toward his mother\u2019s choices early in his life is supported by the passage?",
@@ -81,7 +102,10 @@
                         "C. Abshu wonders if she might have made a better decision about letting him and his siblings go into foster care, even though he understands why she did it.",
                         "D. Abshu wants to apologize for having been ungrateful as a child to his mother, who was only doing what she felt was best for her family."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "According to the passage, which of the following most closely identifies Abshu\u2019s definition of a life fully lived?",
@@ -91,7 +115,10 @@
                         "C. Togetherness with your family and the sharing of laughter",
                         "D. Working in the community and striving for equality"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 }
             ]
         },
@@ -106,7 +133,10 @@
                         "C. knowing right from wrong is a simple matter of admitting the truth to oneself.",
                         "D. people can become severely disturbed without a word of warning to anyone."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Based on the passage, the primary purpose for the 1970s redefinition of insanity proposed by the American Law Institute was to:",
@@ -116,7 +146,10 @@
                         "C. redefine legal insanity so that it might include as many criminals as possible.",
                         "D. apply the McNaghten Rule only to trials involving cases of mistaken identity."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "From information in the third and fourth paragraphs (lines 35\u201358) it can reasonably be inferred that the legal definition of insanity was changed in the 1970s after:",
@@ -126,7 +159,10 @@
                         "C. proponents of the McNaghten Rule had been using the insanity defense in far too many murder trials.",
                         "D. several courts found that justice was not always best served when the McNaghten Rule was applied."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "According to the explanation provided in the fourth paragraph (lines 43\u201358), use of the word appreciate in the phrase \u201cto appreciate the wrongfulness\u201d (lines 48\u201349) instead of know implies which of the following?",
@@ -136,7 +172,10 @@
                         "C. The word\u00a0appreciate\u00a0suggests that an action and that action\u2019s implications must be understood for there to be legal responsibility.",
                         "D. An insane person would \u201cknow\u201d something the way a sane person would \u201cknow\u201d something, and be able to appreciate that knowledge, too."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "The passage indicates that the McNaghten case became the basis for future decisions about legal insanity because:",
@@ -146,7 +185,10 @@
                         "C. McNaghten was unable to convince the jury at his trial that he was incoherent and insane.",
                         "D. McNaghten used a gun to commit murder, thus aggravating the crime in the jury\u2019s mind."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "The passage states that McNaghten wanted to kill the English prime minister because the Scotsman thought that he:",
@@ -156,7 +198,10 @@
                         "C. would be better off in a mental hospital.",
                         "D. had been wronged by the minister."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "According to the passage, one of the reasons some mental health and legal groups want to abolish the insanity defense is that:",
@@ -166,7 +211,10 @@
                         "C. when it is invoked, even if the case is won, the punishment often ends up being too lenient.",
                         "D. innocent defendants are too often being punished unfairly by unsympathetic juries."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "The passage suggests that individuals who use the insanity defense:",
@@ -176,7 +224,10 @@
                         "C. are legally responsible for their actions even if a jury decides they are not guilty.",
                         "D. might risk a lifelong confinement even if acquitted by a jury, if the acquittal is based on insanity."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "According to the passage, a lawyer contemplating using insanity as a defense for a client should do which of the following?",
@@ -186,7 +237,10 @@
                         "C. Make sure that the doctrine of \u201cirresistible impulse\u201d is not used by the prosecution in his or her client\u2019s trial",
                         "D. Recommend that the client be acquitted because he or she has been judged criminally insane by a doctor"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "One of the main points made in the last paragraph is that insanity pleas were:",
@@ -196,7 +250,10 @@
                         "C. often successful in California in 1980.",
                         "D. popular with lawyers in California in 1980."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -211,7 +268,10 @@
                         "C. Questioning the importance of some male poets, encouraging readers to study women\u2019s journals, and creating a world in which women will flourish",
                         "D. Promoting the best work of current women writers, rediscovering older writers, reappraising Matthew Arnold\u2019s view of criticism, and acknowledging differences in literary taste"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following sentences best summarizes the first paragraph?",
@@ -221,7 +281,10 @@
                         "C. It can be liberating to ask questions such as: What can be done about the fact that there are fewer beloved male poets than female poets?",
                         "D. If we admit that there is not enough quality poetry written by women, it can make it easier to discover why this is so, and help us change the situation."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "It may reasonably be inferred from lines 10\u201317 that James Merrill respected Elizabeth Bishop\u2019s poetry:",
@@ -231,7 +294,10 @@
                         "C. but felt she should be more concerned with women\u2019s issues.",
                         "D. and was glad she was one of the four best women poets ever."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "According to the third paragraph (lines 25\u201339), Emily Dickinson\u2019s career was helped by Helen Hunt Jackson, who:",
@@ -241,7 +307,10 @@
                         "C. encouraged her sister to keep writing; Mabel Loomis Todd, who convinced her to use a typewriter; and Lavinia Dickinson, who rescued her poems from a dresser drawer.",
                         "D. taught her; Mabel Loomis Todd, who translated her writing into English; and Lavinia Dickinson, who introduced her poems to the public."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following most clearly distinguishes between the \u201ctwo ways\u201d suggested by the author\u2019s assertion that \u201cwe can\u2019t have it both ways\u201d (line\u00a054)?",
@@ -251,7 +320,10 @@
                         "C. Women haven\u2019t written as well as men because they have not had the same educational opportunities, yet there are many great women writers no one reads.",
                         "D. Women have always had an abundance of Shakespeares, yet have not experienced the kind of education it takes to appreciate Shakespeare."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The author feels that \u201call this rating and counting and classifying of authors\u201c (lines 61\u201362) is:",
@@ -261,7 +333,10 @@
                         "C. at odds with Matthew Arnold\u2019s view of the function of criticism, a view that the author endorses.",
                         "D. important, especially if it helps eliminate the entire oeuvre of writers whose names contain double Ws."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following best states the author\u2019s response to Matthew Arnold\u2019s view of the function of criticism (lines 65\u201376)?",
@@ -271,7 +346,10 @@
                         "C. It makes her wonder who decides what is good, yet she knows most readers think they know what good poetry is and don\u2019t have time to read bad poetry.",
                         "D. It makes her question why more women don\u2019t read Matthew Arnold, yet she realizes that few women today would find Arnold\u2019s views engaging."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following most nearly paraphrases Helen Hunt Jackson\u2019s statement to Emily Dickinson that \u201cit is wrong to the day you live in, that you will not sing aloud\u201d (lines 35\u201336)?",
@@ -281,7 +359,10 @@
                         "C. It is stingy and wrong of you not to read out loud to those who like your work.",
                         "D. It is unfair to this age that you do not share your poetry with the world."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "It may reasonably be inferred that the author considers Emily Dickinson \u201cone of the luckiest great writers who ever lived\u201d (lines 42\u201343) in part because:",
@@ -291,7 +372,10 @@
                         "C. she was never interrupted by her disciples.",
                         "D. she lived in isolation, which allowed her much time to write."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The last paragraph suggests that those who would reevaluate, and perhaps want to devalue, the work of famous male poets should above all be:",
@@ -301,7 +385,10 @@
                         "C. opinionated.",
                         "D. zealous."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 }
             ]
         },
@@ -316,7 +403,10 @@
                         "C. indicate the great need for conducting further research on babies\u2019 brains.",
                         "D. compare the latest research on babies\u2019 brains with similar research conducted fifteen years ago."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The main point made in the second, third, and fourth paragraphs (lines 14\u201352) is that the structure of a baby\u2019s brain:",
@@ -326,7 +416,10 @@
                         "C. can be altered through a process known as pruning.",
                         "D. is still developing after the child is born."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "According to the passage, one thing PET allows neurobiologists to do is:",
@@ -336,7 +429,10 @@
                         "C. control the release of neurotransmitters in a baby\u2019s auditory cortex.",
                         "D. restore microscopic connections in a baby\u2019s brain."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "When she compares a baby\u2019s brain to city neighborhoods, the author is most nearly illustrating her point that:",
@@ -346,7 +442,10 @@
                         "C. the visual cortex allows a baby to recognize specific images.",
                         "D. a baby\u2019s brain has about 1,000 trillion synapses."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following would the author of the passage be LEAST likely to recommend as a way to strengthen the synapses of a baby\u2019s brain?",
@@ -356,7 +455,10 @@
                         "C. Teaching a baby with flashcards",
                         "D. Showing a baby how to distinguish red socks from blue blocks"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The last paragraph suggests that the formation of synapses occurs most rapidly:",
@@ -366,7 +468,10 @@
                         "C. from the time a child is about six months old until that child is about ten years old.",
                         "D. from the time a child is about one year old until that child is well into adolescence."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "As it is used in line\u00a030, the phrase\u00a0something innate\u00a0most nearly means:",
@@ -376,7 +481,10 @@
                         "C. physical immaturity.",
                         "D. an inherited trait."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The fifth paragraph (lines 53\u201370) suggests that one of the main causes of pruning is:",
@@ -386,7 +494,10 @@
                         "C. the use of flashcards.",
                         "D. the strengthening of synapses."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "When the author refers to \u201centrepreneurs preying on the anxieties of new parents\u201d (lines 60\u201361), she is most likely suggesting that new parents should:",
@@ -396,7 +507,10 @@
                         "C. not worry if their babies\u2019 development is slightly behind that suggested by neurobiologists.",
                         "D. take their pediatrician\u2019s advice before they listen to the advice given by other family members."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The passage states that, in terms of development, the average baby should be able to:",
@@ -406,7 +520,10 @@
                         "C. make logical connections between ideas at about four months of age.",
                         "D. form explicit memories at about nine months of age."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 }
             ]
         },
@@ -421,7 +538,10 @@
                         "C. an example of the narrator\u2019s typical response to family events to an analysis of the narrator\u2019s personality.",
                         "D. a chronology of a historical event to a summary of the narrator\u2019s circumstances at the time."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "In Passage A, the narrator\u2019s descriptions of Armstrong suggest that she sees him as ultimately:",
@@ -431,7 +551,10 @@
                         "C. awe-inspiring and heroic.",
                         "D. stiff and ceremonial."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The narrator of Passage A most nearly suggests that her family is angry and annoyed with her for clanking her fork on her plate because the noise:",
@@ -441,7 +564,10 @@
                         "C. causes the family to worry about the outcome of Armstrong\u2019s endeavor.",
                         "D. drowns out the sound from the television."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "The narrator\u2019s statement \u201cI am looking at the MOON, I told myself, I am looking at the MOON\u201d (lines 60\u201362) is most nearly meant to:",
@@ -451,7 +577,10 @@
                         "C. express the narrator\u2019s irritation at having to wait for Apollo to land.",
                         "D. convey the narrator\u2019s awe at the event that is being broadcast."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Passage B indicates that compared to the narrator\u2019s expectation about how the first person walking on the moon would be televised, the broadcast itself was:",
@@ -461,7 +590,10 @@
                         "C. dissimilar; the narrator had expected there would be cities on the moon before a moon walk would be televised.",
                         "D. dissimilar; the narrator had expected to see Armstrong\u2019s moon walk shortly after the lunar vehicle landed."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Based on the passage, the information about Luna City and Mars provided in lines 80\u201384 is most likely meant to represent the:",
@@ -471,7 +603,10 @@
                         "C. official plans for space development revealed during the broadcast.",
                         "D. far-fetched fantasies that first inspired the narrator to become a science fiction writer."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following statements provides the most accurate comparison of the tone of each passage?",
@@ -481,7 +616,10 @@
                         "C. Both passages begin by conveying some sense of the narrator\u2019s wonder but conclude with a note of disenchantment.",
                         "D. Both passages begin by conveying the narrator\u2019s doubt but conclude with some sense of lasting pride."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Compared to the narrator of Passage A, the narrator of Passage B provides more information about:",
@@ -491,7 +629,10 @@
                         "C. the prior accomplishments of the space program.",
                         "D. the order of events throughout the moon landing broadcast."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "It can reasonably be inferred that after seeing the first man walk on the moon, compared to the narrator of Passage B, the narrator of Passage A felt:",
@@ -501,7 +642,10 @@
                         "C. less able to appreciate the celebration surrounding the man on the moon.",
                         "D. less disappointed by the delay in the broadcast."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The last paragraph of Passage A (lines 37\u201349) marks a shift in the passage from:",
@@ -511,7 +655,10 @@
                         "C. an example of the narrator\u2019s typical response to family events to an analysis of the narrator\u2019s personality.",
                         "D. a chronology of a historical event to a summary of the narrator\u2019s circumstances at the time."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "In Passage A, the narrator\u2019s descriptions of Armstrong suggest that she sees him as ultimately:",
@@ -521,7 +668,10 @@
                         "C. awe-inspiring and heroic.",
                         "D. stiff and ceremonial."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The narrator of Passage A most nearly suggests that her family is angry and annoyed with her for clanking her fork on her plate because the noise:",
@@ -531,7 +681,10 @@
                         "C. causes the family to worry about the outcome of Armstrong\u2019s endeavor.",
                         "D. drowns out the sound from the television."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The narrator\u2019s statement \u201cI am looking at the MOON, I told myself, I am looking at the MOON\u201d (lines 60\u201362) is most nearly meant to:",
@@ -541,7 +694,10 @@
                         "C. express the narrator\u2019s irritation at having to wait for Apollo to land.",
                         "D. convey the narrator\u2019s awe at the event that is being broadcast."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Passage B indicates that compared to the narrator\u2019s expectation about how the first person walking on the moon would be televised, the broadcast itself was:",
@@ -551,7 +707,10 @@
                         "C. dissimilar; the narrator had expected there would be cities on the moon before a moon walk would be televised.",
                         "D. dissimilar; the narrator had expected to see Armstrong\u2019s moon walk shortly after the lunar vehicle landed."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Based on the passage, the information about Luna City and Mars provided in lines 80\u201384 is most likely meant to represent the:",
@@ -561,7 +720,10 @@
                         "C. official plans for space development revealed during the broadcast.",
                         "D. far-fetched fantasies that first inspired the narrator to become a science fiction writer."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following statements provides the most accurate comparison of the tone of each passage?",
@@ -571,7 +733,10 @@
                         "C. Both passages begin by conveying some sense of the narrator\u2019s wonder but conclude with a note of disenchantment.",
                         "D. Both passages begin by conveying the narrator\u2019s doubt but conclude with some sense of lasting pride."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Compared to the narrator of Passage A, the narrator of Passage B provides more information about:",
@@ -581,7 +746,10 @@
                         "C. the prior accomplishments of the space program.",
                         "D. the order of events throughout the moon landing broadcast."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "It can reasonably be inferred that after seeing the first man walk on the moon, compared to the narrator of Passage B, the narrator of Passage A felt:",
@@ -591,7 +759,10 @@
                         "C. less able to appreciate the celebration surrounding the man on the moon.",
                         "D. less disappointed by the delay in the broadcast."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         }
@@ -608,7 +779,10 @@
                         "C. waiting by the back door,",
                         "D. waiting by the back door"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nA Microscope in the Kitchen   I grew up with buckets, shovels, and nets waiting by the back door; hip-waders hanging in the closet; tide table charts covering the refrigerator door; and a microscope _ on the kitchen table. Having studied, my mother is a marine biologist. Our household might have been described as uncooperative. Our meals weren\u2019t always served in the expected order of breakfast, lunch, and supper. Everything was subservient to the disposal of the tides. When the tide was low, Mom could be found down on the mudflats. When the tide was high, she would be standing on the inlet bridge with her plankton net. I have great respect for my mother. I learned early that the moon affected the tides. Mom was always waiting for a full or new moon, when low tide would be lower than average and high tide higher than average. The moon being aligned with Earth and the sun when full or new, so its gravity combines with the sun\u2019s gravity to create an even stronger gravitational pull. I knew that it took about eight hours for the tides to change from high to low, sixteen hours for a complete cycle of tides. I didn\u2019t have to wait to learn these things in school. In our house they were everyday knowledge. [1] Often, my brother and I, joined our mother on her adventures into tidal lands. [2] At the very low tides of the full moon, when almost all the water was sucked away, we found the hideaways where crabs, snails, starfish, and sea urchins hid in order not to be seen.[3] Sometimes we would dig with shovels in the mud, where yellow and white worms lived in their leathery tunnels. 13 For plankton tows, we would stand on the bridge while Mom lowered a cone-shaped net that is often used by marine biologists.Then we would patiently wait. After a while, she would pull up the net, and we would go home. Later, we would see her sitting at the kitchen table, peering at a drop of water through the lenses of her microscope from the bottle\u2014watching the thousands of tiny swimming organisms. ",
@@ -618,7 +792,10 @@
                         "C. sitting",
                         "D. sat"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nA Microscope in the Kitchen   I grew up with buckets, shovels, and nets waiting by the back door; hip-waders hanging in the closet; tide table charts covering the refrigerator door; and a microscope was sitting on the kitchen table. _ a marine biologist. Our household might have been described as uncooperative. Our meals weren\u2019t always served in the expected order of breakfast, lunch, and supper. Everything was subservient to the disposal of the tides. When the tide was low, Mom could be found down on the mudflats. When the tide was high, she would be standing on the inlet bridge with her plankton net. I have great respect for my mother. I learned early that the moon affected the tides. Mom was always waiting for a full or new moon, when low tide would be lower than average and high tide higher than average. The moon being aligned with Earth and the sun when full or new, so its gravity combines with the sun\u2019s gravity to create an even stronger gravitational pull. I knew that it took about eight hours for the tides to change from high to low, sixteen hours for a complete cycle of tides. I didn\u2019t have to wait to learn these things in school. In our house they were everyday knowledge. [1] Often, my brother and I, joined our mother on her adventures into tidal lands. [2] At the very low tides of the full moon, when almost all the water was sucked away, we found the hideaways where crabs, snails, starfish, and sea urchins hid in order not to be seen.[3] Sometimes we would dig with shovels in the mud, where yellow and white worms lived in their leathery tunnels. 13 For plankton tows, we would stand on the bridge while Mom lowered a cone-shaped net that is often used by marine biologists.Then we would patiently wait. After a while, she would pull up the net, and we would go home. Later, we would see her sitting at the kitchen table, peering at a drop of water through the lenses of her microscope from the bottle\u2014watching the thousands of tiny swimming organisms. ",
@@ -628,7 +805,10 @@
                         "C. My mother\u2019s occupation is that of",
                         "D. My mother is"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "A"
                 },
                 {
                     "question": "Which choice would most effectively introduce the rest of this paragraph?",
@@ -638,7 +818,10 @@
                         "C. Our household didn\u2019t run according to a typical schedule.",
                         "D. Mom ran our household in a most spectacular manner."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nA Microscope in the Kitchen   I grew up with buckets, shovels, and nets waiting by the back door; hip-waders hanging in the closet; tide table charts covering the refrigerator door; and a microscope was sitting on the kitchen table. Having studied, my mother is a marine biologist. Our household might have been described as uncooperative. Our meals weren\u2019t always served in the expected order of breakfast, lunch, and supper. Everything _ the tides. When the tide was low, Mom could be found down on the mudflats. When the tide was high, she would be standing on the inlet bridge with her plankton net. I have great respect for my mother. I learned early that the moon affected the tides. Mom was always waiting for a full or new moon, when low tide would be lower than average and high tide higher than average. The moon being aligned with Earth and the sun when full or new, so its gravity combines with the sun\u2019s gravity to create an even stronger gravitational pull. I knew that it took about eight hours for the tides to change from high to low, sixteen hours for a complete cycle of tides. I didn\u2019t have to wait to learn these things in school. In our house they were everyday knowledge. [1] Often, my brother and I, joined our mother on her adventures into tidal lands. [2] At the very low tides of the full moon, when almost all the water was sucked away, we found the hideaways where crabs, snails, starfish, and sea urchins hid in order not to be seen.[3] Sometimes we would dig with shovels in the mud, where yellow and white worms lived in their leathery tunnels. 13 For plankton tows, we would stand on the bridge while Mom lowered a cone-shaped net that is often used by marine biologists.Then we would patiently wait. After a while, she would pull up the net, and we would go home. Later, we would see her sitting at the kitchen table, peering at a drop of water through the lenses of her microscope from the bottle\u2014watching the thousands of tiny swimming organisms. ",
@@ -648,7 +831,10 @@
                         "C. depended on",
                         "D. trusted in"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which choice most effectively signals the shift from the preceding paragraph to this paragraph?",
@@ -658,7 +844,10 @@
                         "C. A relationship exists between the moon and the tides.",
                         "D. The moon is a mysterious orb afloat in the sky."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nA Microscope in the Kitchen   I grew up with buckets, shovels, and nets waiting by the back door; hip-waders hanging in the closet; tide table charts covering the refrigerator door; and a microscope was sitting on the kitchen table. Having studied, my mother is a marine biologist. Our household might have been described as uncooperative. Our meals weren\u2019t always served in the expected order of breakfast, lunch, and supper. Everything was subservient to the disposal of the tides. When the tide was low, Mom could be found down on the mudflats. When the tide was high, she would be standing on the inlet bridge with her plankton net. I have great respect for my mother. I learned early that the moon affected the tides. Mom was always waiting for a full or new moon, when low tide would be lower than average and high tide higher than average. _ aligned with Earth and the sun when full or new, so its gravity combines with the sun\u2019s gravity to create an even stronger gravitational pull. I knew that it took about eight hours for the tides to change from high to low, sixteen hours for a complete cycle of tides. I didn\u2019t have to wait to learn these things in school. In our house they were everyday knowledge. [1] Often, my brother and I, joined our mother on her adventures into tidal lands. [2] At the very low tides of the full moon, when almost all the water was sucked away, we found the hideaways where crabs, snails, starfish, and sea urchins hid in order not to be seen.[3] Sometimes we would dig with shovels in the mud, where yellow and white worms lived in their leathery tunnels. 13 For plankton tows, we would stand on the bridge while Mom lowered a cone-shaped net that is often used by marine biologists.Then we would patiently wait. After a while, she would pull up the net, and we would go home. Later, we would see her sitting at the kitchen table, peering at a drop of water through the lenses of her microscope from the bottle\u2014watching the thousands of tiny swimming organisms. ",
@@ -668,7 +857,10 @@
                         "C. The moon is",
                         "D. The moon,"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nA Microscope in the Kitchen   I grew up with buckets, shovels, and nets waiting by the back door; hip-waders hanging in the closet; tide table charts covering the refrigerator door; and a microscope was sitting on the kitchen table. Having studied, my mother is a marine biologist. Our household might have been described as uncooperative. Our meals weren\u2019t always served in the expected order of breakfast, lunch, and supper. Everything was subservient to the disposal of the tides. When the tide was low, Mom could be found down on the mudflats. When the tide was high, she would be standing on the inlet bridge with her plankton net. I have great respect for my mother. I learned early that the moon affected the tides. Mom was always waiting for a full or new moon, when low tide would be lower than average and high tide higher than average. The moon being aligned with Earth and the sun when full or new, so _ gravity combines with the sun\u2019s gravity to create an even stronger gravitational pull. I knew that it took about eight hours for the tides to change from high to low, sixteen hours for a complete cycle of tides. I didn\u2019t have to wait to learn these things in school. In our house they were everyday knowledge. [1] Often, my brother and I, joined our mother on her adventures into tidal lands. [2] At the very low tides of the full moon, when almost all the water was sucked away, we found the hideaways where crabs, snails, starfish, and sea urchins hid in order not to be seen.[3] Sometimes we would dig with shovels in the mud, where yellow and white worms lived in their leathery tunnels. 13 For plankton tows, we would stand on the bridge while Mom lowered a cone-shaped net that is often used by marine biologists.Then we would patiently wait. After a while, she would pull up the net, and we would go home. Later, we would see her sitting at the kitchen table, peering at a drop of water through the lenses of her microscope from the bottle\u2014watching the thousands of tiny swimming organisms. ",
@@ -678,7 +870,10 @@
                         "C. it's",
                         "D. its'"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "If the writer were to delete the phrase \u201csixteen hours for a complete cycle of tides\u201d from the preceding sentence (ending the sentence with a period), the essay would primarily lose a detail that:",
@@ -688,7 +883,10 @@
                         "C. helps establish the setting for the essay.",
                         "D. displays the narrator\u2019s knowledge of tides."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nA Microscope in the Kitchen   I grew up with buckets, shovels, and nets waiting by the back door; hip-waders hanging in the closet; tide table charts covering the refrigerator door; and a microscope was sitting on the kitchen table. Having studied, my mother is a marine biologist. Our household might have been described as uncooperative. Our meals weren\u2019t always served in the expected order of breakfast, lunch, and supper. Everything was subservient to the disposal of the tides. When the tide was low, Mom could be found down on the mudflats. When the tide was high, she would be standing on the inlet bridge with her plankton net. I have great respect for my mother. I learned early that the moon affected the tides. Mom was always waiting for a full or new moon, when low tide would be lower than average and high tide higher than average. The moon being aligned with Earth and the sun when full or new, so its gravity combines with the sun\u2019s gravity to create an even stronger gravitational pull. I knew that it took about eight hours for the tides to change from high to low, sixteen hours for a complete cycle of tides. I didn\u2019t have to wait to learn these things in school. In our house they were everyday knowledge. [1] Often, my _, joined our mother on her adventures into tidal lands. [2] At the very low tides of the full moon, when almost all the water was sucked away, we found the hideaways where crabs, snails, starfish, and sea urchins hid in order not to be seen.[3] Sometimes we would dig with shovels in the mud, where yellow and white worms lived in their leathery tunnels. 13 For plankton tows, we would stand on the bridge while Mom lowered a cone-shaped net that is often used by marine biologists.Then we would patiently wait. After a while, she would pull up the net, and we would go home. Later, we would see her sitting at the kitchen table, peering at a drop of water through the lenses of her microscope from the bottle\u2014watching the thousands of tiny swimming organisms. ",
@@ -698,7 +896,10 @@
                         "C. brother, and I",
                         "D. brother and I"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nA Microscope in the Kitchen   I grew up with buckets, shovels, and nets waiting by the back door; hip-waders hanging in the closet; tide table charts covering the refrigerator door; and a microscope was sitting on the kitchen table. Having studied, my mother is a marine biologist. Our household might have been described as uncooperative. Our meals weren\u2019t always served in the expected order of breakfast, lunch, and supper. Everything was subservient to the disposal of the tides. When the tide was low, Mom could be found down on the mudflats. When the tide was high, she would be standing on the inlet bridge with her plankton net. I have great respect for my mother. I learned early that the moon affected the tides. Mom was always waiting for a full or new moon, when low tide would be lower than average and high tide higher than average. The moon being aligned with Earth and the sun when full or new, so its gravity combines with the sun\u2019s gravity to create an even stronger gravitational pull. I knew that it took about eight hours for the tides to change from high to low, sixteen hours for a complete cycle of tides. I didn\u2019t have to wait to learn these things in school. In our house they were everyday knowledge. [1] Often, my brother and I, joined our mother on her adventures into tidal lands. [2] At the very low tides of the full moon, when almost all the water was sucked _ found the hideaways where crabs, snails, starfish, and sea urchins hid in order not to be seen.[3] Sometimes we would dig with shovels in the mud, where yellow and white worms lived in their leathery tunnels. 13 For plankton tows, we would stand on the bridge while Mom lowered a cone-shaped net that is often used by marine biologists.Then we would patiently wait. After a while, she would pull up the net, and we would go home. Later, we would see her sitting at the kitchen table, peering at a drop of water through the lenses of her microscope from the bottle\u2014watching the thousands of tiny swimming organisms. ",
@@ -708,7 +909,10 @@
                         "C. away. We",
                         "D. away; we"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "D"
                 },
                 {
                     "question": "Fill in the _:\nA Microscope in the Kitchen   I grew up with buckets, shovels, and nets waiting by the back door; hip-waders hanging in the closet; tide table charts covering the refrigerator door; and a microscope was sitting on the kitchen table. Having studied, my mother is a marine biologist. Our household might have been described as uncooperative. Our meals weren\u2019t always served in the expected order of breakfast, lunch, and supper. Everything was subservient to the disposal of the tides. When the tide was low, Mom could be found down on the mudflats. When the tide was high, she would be standing on the inlet bridge with her plankton net. I have great respect for my mother. I learned early that the moon affected the tides. Mom was always waiting for a full or new moon, when low tide would be lower than average and high tide higher than average. The moon being aligned with Earth and the sun when full or new, so its gravity combines with the sun\u2019s gravity to create an even stronger gravitational pull. I knew that it took about eight hours for the tides to change from high to low, sixteen hours for a complete cycle of tides. I didn\u2019t have to wait to learn these things in school. In our house they were everyday knowledge. [1] Often, my brother and I, joined our mother on her adventures into tidal lands. [2] At the very low tides of the full moon, when almost all the water was sucked away, we found the _[3] Sometimes we would dig with shovels in the mud, where yellow and white worms lived in their leathery tunnels. 13 For plankton tows, we would stand on the bridge while Mom lowered a cone-shaped net that is often used by marine biologists.Then we would patiently wait. After a while, she would pull up the net, and we would go home. Later, we would see her sitting at the kitchen table, peering at a drop of water through the lenses of her microscope from the bottle\u2014watching the thousands of tiny swimming organisms. ",
@@ -718,7 +922,10 @@
                         "C. places where crabs, snails, starfish, and sea urchins were stashed away.",
                         "D. hiding places of crabs, snails, starfish, and sea urchins."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following sequences of sentences makes this paragraph most logical?",
@@ -728,7 +935,10 @@
                         "C. 2, 3, 1",
                         "D. 3, 1, 2"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Given that all of the choices are true, which one provides information that is relevant and that makes the rest of this paragraph understandable?",
@@ -738,7 +948,10 @@
                         "C. was woven from cotton and nylon material.",
                         "D. was shaped like a geometric figure."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The best placement for the underlined portion would be:",
@@ -748,7 +961,10 @@
                         "C. after the wordmicroscope.",
                         "D. after the wordbottle(but before the dash)."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 }
             ]
         },
@@ -763,7 +979,10 @@
                         "C. gardener, he still is\u2014",
                         "D. gardener and he still is"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, _ out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. I had no qualms, of course, about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he pursued out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was much more fun to reap than sowing. [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work has given me the joy of touching the soil with an open palm, to get the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I wish I\u2019d spend more time with him in the garden. [4] My favorite photograph of my father shows him squatting on his heels, trowel in hand, behind a golden heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -773,7 +992,10 @@
                         "C. pick up his hoe and trowel, and head",
                         "D. picking up his hoe and trowel, and headed"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "If the word\u00a0Saturday\u00a0were deleted from the preceding sentence, the essay would primarily lose:",
@@ -783,7 +1005,10 @@
                         "C. support for a point made earlier.",
                         "D. a crucial link to the following paragraph."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the choices best emphasizes how much the father wanted his son to share his avid interest in gardening?",
@@ -793,7 +1018,10 @@
                         "C. Contrary to this thinking,",
                         "D. Despite his repeated attempts,"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, pick up his hoe and trowel, and would head out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. _ about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he pursued out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was much more fun to reap than sowing. [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work has given me the joy of touching the soil with an open palm, to get the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I wish I\u2019d spend more time with him in the garden. [4] My favorite photograph of my father shows him squatting on his heels, trowel in hand, behind a golden heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -803,7 +1031,10 @@
                         "C. It stands to reason, then, that I certainly would have no qualms",
                         "D. I had no qualms, as a consequence of it,"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, pick up his hoe and trowel, and would head out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. I had no qualms, of course, about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he _ out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was much more fun to reap than sowing. [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work has given me the joy of touching the soil with an open palm, to get the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I wish I\u2019d spend more time with him in the garden. [4] My favorite photograph of my father shows him squatting on his heels, trowel in hand, behind a golden heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -813,7 +1044,10 @@
                         "C. surrendered",
                         "D. enlisted"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, pick up his hoe and trowel, and would head out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. I had no qualms, of course, about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he pursued out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was _ [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work has given me the joy of touching the soil with an open palm, to get the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I wish I\u2019d spend more time with him in the garden. [4] My favorite photograph of my father shows him squatting on his heels, trowel in hand, behind a golden heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -823,7 +1057,10 @@
                         "C. much more fun to reap than to sow.",
                         "D. the most fun reaping than if I\u2019d had to sow."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The best placement for the underlined portion would be:",
@@ -833,7 +1070,10 @@
                         "C. after the wordfollow.",
                         "D. after the wordgarden(ending the sentence with a period)."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "D"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, pick up his hoe and trowel, and would head out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. I had no qualms, of course, about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he pursued out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was much more fun to reap than sowing. [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work _ me the joy of touching the soil with an open palm, to get the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I wish I\u2019d spend more time with him in the garden. [4] My favorite photograph of my father shows him squatting on his heels, trowel in hand, behind a golden heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -843,7 +1083,10 @@
                         "C. has gave",
                         "D. have gave"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, pick up his hoe and trowel, and would head out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. I had no qualms, of course, about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he pursued out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was much more fun to reap than sowing. [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work has given me the joy of touching the soil with an open palm, _ the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I wish I\u2019d spend more time with him in the garden. [4] My favorite photograph of my father shows him squatting on his heels, trowel in hand, behind a golden heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -853,7 +1096,10 @@
                         "C. of getting",
                         "D. got"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, pick up his hoe and trowel, and would head out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. I had no qualms, of course, about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he pursued out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was much more fun to reap than sowing. [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work has given me the joy of touching the soil with an open palm, to get the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I _ more time with him in the garden. [4] My favorite photograph of my father shows him squatting on his heels, trowel in hand, behind a golden heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -863,7 +1109,10 @@
                         "C. wish I had spent",
                         "D. wish to have spent"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, pick up his hoe and trowel, and would head out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. I had no qualms, of course, about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he pursued out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was much more fun to reap than sowing. [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work has given me the joy of touching the soil with an open palm, to get the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I wish I\u2019d spend more time with him in the garden. [4] _ squatting on his heels, trowel in hand, behind a golden heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -873,7 +1122,10 @@
                         "C. No, because it contradicts the writer\u2019s claim that the photograph he describes in the preceding sentence is one he also treasures.",
                         "D. No, because it distracts the reader from the main focus of the paragraph and does not logically fit at this point in the essay."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nMy Father\u2019s Garden   [1]     When I was a boy growing up in Delhi, India, we had a kitchen garden behind our downstairs apartment. My father was an avid gardener, he still is: and every Saturday morning he would put on his work clothes, pick up his hoe and trowel, and would head out the back door. 3 [2]     As a ten-year-old, I was supremely unenthusiastic about swinging a hoe in the garden when I could be out playing with my friends. Having tried and failed, my father was unable to make a gardener of me. I had no qualms, of course, about enjoying the results of his labor: the potatoes, squash, cucumbers, and cauliflower that he pursued out of the earth. I would even help him dig out the potatoes or cut a cucumber from its vine. To me, it was much more fun to reap than sowing. [3]     Many years later, living in an upstairs apartment, I am more often sorry I didn\u2019t follow my father out to the garden. I have several indoor plants, but the experience is not the same. The few times that I\u2019ve helped a friend with yard work has given me the joy of touching the soil with an open palm, to get the earth under my fingernails, of patting down the berm around a newly transplanted sapling. Now that I live far from my father (I live in Iowa on the other side of the world), I wish I\u2019d spend more time with him in the garden. [4] My favorite photograph of my father shows him _ heap of onions freshly pulled from the ground. His glowing smile are evidence of his pride in the onions\u2014the proof of his labor and love\u2014and in me, the photographer, his son. In that photo, his love of the land and his love for me are somehow intertwined, indivisible. It is that same love\u2014love of kin, love of land\u2014that pushes under my fingernails, pushes against my skin, when I thrust my hand into the yielding earth and think that on its far side my father might be doing the same. ",
@@ -883,7 +1135,10 @@
                         "C. were",
                         "D. OMIT the underlined portion."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "For the sake of the logic and coherence of the essay, Paragraph\u00a02 should be placed:",
@@ -893,7 +1148,10 @@
                         "C. after Paragraph 3.",
                         "D. after Paragraph 4."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "Suppose the writer had intended to write a brief essay showing how a value he holds as an adult is very different from what he felt as a child. Would this essay successfully fulfill the writer\u2019s goal?",
@@ -903,7 +1161,10 @@
                         "C. No, because the focus of the essay is on the writer\u2019s father\u2019s values and not on the values of the writer himself.",
                         "D. No, because the essay is not about values; rather, it is about one man\u2019s avid interest in backyard gardening."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -918,7 +1179,10 @@
                         "C. it's",
                         "D. its'"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once _ powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary numerously from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before being bound to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument have come from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand beat a cylindrical drum.     [1] Due to the limited number of notes that can be played on an antara, early musicians\u2019 most likely worked in groups, coordinating the timing and pitch of their instruments to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. [4] Even to this day, descendants of the Incas, the Quechua people of Peru and Bolivia, prefer to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -928,7 +1192,10 @@
                         "C. the richest and most",
                         "D. the richer and more"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Given that all of the choices are true, which one provides the most significant new information?",
@@ -938,7 +1205,10 @@
                         "C. arranged from shortest to longest.",
                         "D. which are fastened together."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once the more richer and more powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary _ from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before being bound to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument have come from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand beat a cylindrical drum.     [1] Due to the limited number of notes that can be played on an antara, early musicians\u2019 most likely worked in groups, coordinating the timing and pitch of their instruments to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. [4] Even to this day, descendants of the Incas, the Quechua people of Peru and Bolivia, prefer to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -948,7 +1218,10 @@
                         "C. number-wise",
                         "D. in number"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once the more richer and more powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary numerously from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before _ to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument have come from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand beat a cylindrical drum.     [1] Due to the limited number of notes that can be played on an antara, early musicians\u2019 most likely worked in groups, coordinating the timing and pitch of their instruments to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. [4] Even to this day, descendants of the Incas, the Quechua people of Peru and Bolivia, prefer to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -958,7 +1231,10 @@
                         "C. been bounded",
                         "D. been bound"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once the more richer and more powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary numerously from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before being bound to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument _ from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand beat a cylindrical drum.     [1] Due to the limited number of notes that can be played on an antara, early musicians\u2019 most likely worked in groups, coordinating the timing and pitch of their instruments to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. [4] Even to this day, descendants of the Incas, the Quechua people of Peru and Bolivia, prefer to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -968,7 +1244,10 @@
                         "C. comes",
                         "D. come"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "The best placement for the underlined portion would be:",
@@ -978,7 +1257,10 @@
                         "C. before the wordof.",
                         "D. before the wordfour."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once the more richer and more powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary numerously from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before being bound to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument have come from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand _ a cylindrical drum.     [1] Due to the limited number of notes that can be played on an antara, early musicians\u2019 most likely worked in groups, coordinating the timing and pitch of their instruments to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. [4] Even to this day, descendants of the Incas, the Quechua people of Peru and Bolivia, prefer to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -988,7 +1270,10 @@
                         "C. beated",
                         "D. beats"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once the more richer and more powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary numerously from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before being bound to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument have come from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand beat a cylindrical drum.     [1] Due to the limited number of notes that can be played on an _ most likely worked in groups, coordinating the timing and pitch of their instruments to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. [4] Even to this day, descendants of the Incas, the Quechua people of Peru and Bolivia, prefer to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -998,7 +1283,10 @@
                         "C. antara early musicians'",
                         "D. antara early musician\u2019s"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "If the writer were to delete the phrase \u201ccoordinating the timing and pitch of their instruments\u201d from the preceding sentence, the sentence would primarily lose:",
@@ -1008,7 +1296,10 @@
                         "C. the idea that the antara was a key feature of Incan music.",
                         "D. nothing of significance, because the phrase is redundant."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once the more richer and more powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary numerously from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before being bound to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument have come from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand beat a cylindrical drum.     [1] Due to the limited number of notes that can be played on an antara, early musicians\u2019 most likely worked in groups, coordinating the timing and pitch of their _ to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. [4] Even to this day, descendants of the Incas, the Quechua people of Peru and Bolivia, prefer to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -1018,7 +1309,10 @@
                         "C. with both sets being",
                         "D. OMIT the underlined portion."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "D"
                 },
                 {
                     "question": "For the sake of the logic and coherence of this paragraph, Sentence 4 should be placed:",
@@ -1028,7 +1322,10 @@
                         "C. after Sentence 1.",
                         "D. after Sentence 2."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once the more richer and more powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary numerously from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before being bound to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument have come from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand beat a cylindrical drum.     [1] Due to the limited number of notes that can be played on an antara, early musicians\u2019 most likely worked in groups, coordinating the timing and pitch of their instruments to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. _ Incas, the Quechua people of Peru and Bolivia, prefer to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -1038,7 +1335,10 @@
                         "C. exact re-created.",
                         "D. re-created exact."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nThe Andean Panpipe       Whether its bright and jaunty or haunting and melancholic, the music of the Andes highlands has a mellow sound unique in the musical world. The instrument responsible for this sound is the antara, or Andean panpipe, known for the hollow-sounding, breathy notes it creates. The antara has its origins in the Incan civilization, once the more richer and more powerful empire in South America.     The antara consists of a connected row of hollow, vertical pipes of varying lengths, which are then lined up. The pipes, which can vary numerously from three to fifteen, are fashioned from clay that is rolled around a mold. Each pipe is individually rolled to create the proper pitch before being bound to the other pipes.     The antara dates back to the ninth century. Evidence about how musicians played the instrument have come from painted images on Incan ceramic pottery. Musicians are depicted playing a six-pipe antara by holding the lower ends of the two longer pipes with the right hand while placing the left hand near the remaining tops of the four pipes. The antara was also sometimes held in one hand while the other hand beat a cylindrical drum.     [1] Due to the limited number of notes that can be played on an antara, early musicians\u2019 most likely worked in groups, coordinating the timing and pitch of their instruments to extend the range of sounds produced. [2] Other pottery images show two antara players facing each other while dancing. [3] Each player holds a set of pipes so that both sets are connected to the other set by a string, as if to suggest that those two antaras should be played together. [4] Even to this day, descendants of the _ to play matched antaras bound together.     Unfortunately, the music of the Incas can probably never be exactly re-creating. Yet one can hear in the music of their descendants, beautiful variations on a musical sound that has survived for many centuries.\n ",
@@ -1048,7 +1348,10 @@
                         "C. hear in the music of their descendants;",
                         "D. hear in the music of their descendants"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "A"
                 },
                 {
                     "question": "If the writer were to change the pronoun\u00a0one\u00a0to\u00a0we\u00a0in the preceding sentence, this closing sentence would:",
@@ -1058,7 +1361,10 @@
                         "C. take on a somewhat more personal tone.",
                         "D. become more clearly a call to action."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1073,7 +1379,10 @@
                         "C. with its own government, banking system, postal service, and army.",
                         "D. that has to import most of its supplies, even such necessities as food and water."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nVatican City\u2019s Wonders       Surrounded by the ancient city of Rome, Vatican City is an independent nation on the west bank of the Tiber River. This _ country\u2014about one-sixth of a square mile in all\u2014is also home to a disproportionately large number of sites with great historical, artistic, and which have religious significance.     The Vatican Museums house a great many valuable paintings, sculptures, pieces of jewelry, and tapestries, as well as the world\u2019s most extensive collections of ancient manuscripts. Scholars often probe the museums\u2019 archives of early written works for insights into lives led long ago.     Accordingly, St. Peter\u2019s Basilica, the largest cathedral in the Northern Hemisphere, is remarkable. Built upon second-century foundations. St. Peter\u2019s features a dome designed by the artist and architect Michelangelo.10 Intricate mosaics\u2014enormous \u201cpaintings\u201d fashioned from millions of _ cut stones of various colors\u2014lining each of the basilica\u2019s several smaller domes. The marble floor, with its intricate designs, covers the cathedral\u2019s catacombs, where popes are buried. Sculptures by Michelangelo and Bernini, including Michelangelo\u2019s poignant Piet\u00e0, contributes to the basilica\u2019s beauty.     However, to many, the most spectacular part of Vatican City is the Sistine Chapel. This vast chapel displays what many consider some of the most important works of Renaissance art: Michelangelo\u2019s awe-inspiring frescoes. These frescoes\u2014paintings made on freshly spread, still-moist plaster\u2014capture the attention of viewers with a complex array of religious images. One of his most famous frescoes, The Last Judgment, is painted on the west wall. A series of interrelated frescoes covers the vaulted ceiling.     Despite its small size, Vatican City offers its many visitors a chance to see a wide range of historical and artistic wonders. It is easy to understand why the city has become one of the most frequently visited places in the world.\n ",
@@ -1083,7 +1392,10 @@
                         "C. a grand total sum of about one-sixth of a square mile\u2014",
                         "D. a total of about one-sixth of a square mile when added together\u2014"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "A"
                 },
                 {
                     "question": "Fill in the _:\nVatican City\u2019s Wonders       Surrounded by the ancient city of Rome, Vatican City is an independent nation on the west bank of the Tiber River. This tiny country\u2014_is also home to a disproportionately large number of sites with great historical, artistic, and which have religious significance.     The Vatican Museums house a great many valuable paintings, sculptures, pieces of jewelry, and tapestries, as well as the world\u2019s most extensive collections of ancient manuscripts. Scholars often probe the museums\u2019 archives of early written works for insights into lives led long ago.     Accordingly, St. Peter\u2019s Basilica, the largest cathedral in the Northern Hemisphere, is remarkable. Built upon second-century foundations. St. Peter\u2019s features a dome designed by the artist and architect Michelangelo.10 Intricate mosaics\u2014enormous \u201cpaintings\u201d fashioned from millions of tiny cut stones of various colors\u2014lining each of the basilica\u2019s several smaller domes. The marble floor, with its intricate designs, covers the cathedral\u2019s catacombs, where popes are buried. Sculptures by Michelangelo and Bernini, including Michelangelo\u2019s poignant Piet\u00e0, contributes to the basilica\u2019s beauty.     However, to many, the most spectacular part of Vatican City is the Sistine Chapel. This vast chapel displays what many consider some of the most important works of Renaissance art: Michelangelo\u2019s awe-inspiring frescoes. These frescoes\u2014paintings made on freshly spread, still-moist plaster\u2014capture the attention of viewers with a complex array of religious images. One of his most famous frescoes, The Last Judgment, is painted on the west wall. A series of interrelated frescoes covers the vaulted ceiling.     Despite its small size, Vatican City offers its many visitors a chance to see a wide range of historical and artistic wonders. It is easy to understand why the city has become one of the most frequently visited places in the world.\n ",
@@ -1093,7 +1405,10 @@
                         "C. as well as",
                         "D. OMIT the underlined portion."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "If the writer were to delete the words\u00a0tiny\u00a0and\u00a0disproportionately from the preceding sentence, the sentence would primarily lose:",
@@ -1103,7 +1418,10 @@
                         "C. details that stress how important the sites are.",
                         "D. a comparison between Vatican City and Rome."
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Given that all of the choices are true, which one best emphasizes the extent and worth of the museums\u2019 holdings?",
@@ -1113,7 +1431,10 @@
                         "C. numerous important",
                         "D. a group of precious"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "B",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "Which of the following alternatives to the underlined portion would NOT be acceptable?",
@@ -1123,7 +1444,10 @@
                         "C. also there is",
                         "D. and also"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nVatican City\u2019s Wonders       Surrounded by the ancient city of Rome, Vatican City is an independent nation on the west bank of the Tiber River. This tiny country\u2014about one-sixth of a square mile in all\u2014is also home to a disproportionately large number of sites with great historical, artistic, and which have religious significance.     The Vatican Museums house a great many valuable paintings, sculptures, pieces of jewelry, and tapestries, _ the world\u2019s most extensive collections of ancient manuscripts. Scholars often probe the museums\u2019 archives of early written works for insights into lives led long ago.     Accordingly, St. Peter\u2019s Basilica, the largest cathedral in the Northern Hemisphere, is remarkable. Built upon second-century foundations. St. Peter\u2019s features a dome designed by the artist and architect Michelangelo.10 Intricate mosaics\u2014enormous \u201cpaintings\u201d fashioned from millions of tiny cut stones of various colors\u2014lining each of the basilica\u2019s several smaller domes. The marble floor, with its intricate designs, covers the cathedral\u2019s catacombs, where popes are buried. Sculptures by Michelangelo and Bernini, including Michelangelo\u2019s poignant Piet\u00e0, contributes to the basilica\u2019s beauty.     However, to many, the most spectacular part of Vatican City is the Sistine Chapel. This vast chapel displays what many consider some of the most important works of Renaissance art: Michelangelo\u2019s awe-inspiring frescoes. These frescoes\u2014paintings made on freshly spread, still-moist plaster\u2014capture the attention of viewers with a complex array of religious images. One of his most famous frescoes, The Last Judgment, is painted on the west wall. A series of interrelated frescoes covers the vaulted ceiling.     Despite its small size, Vatican City offers its many visitors a chance to see a wide range of historical and artistic wonders. It is easy to understand why the city has become one of the most frequently visited places in the world.\n ",
@@ -1133,7 +1457,10 @@
                         "C. check out",
                         "D. pry"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "Fill in the _:\nVatican City\u2019s Wonders       Surrounded by the ancient city of Rome, Vatican City is an independent nation on the west bank of the Tiber River. This tiny country\u2014about one-sixth of a square mile in all\u2014is also home to a disproportionately large number of sites with great historical, artistic, and which have religious significance.     The Vatican Museums house a great many valuable paintings, sculptures, pieces of jewelry, and tapestries, as well as the world\u2019s most extensive collections of ancient manuscripts. Scholars often _ the museums\u2019 archives of early written works for insights into lives led long ago.     Accordingly, St. Peter\u2019s Basilica, the largest cathedral in the Northern Hemisphere, is remarkable. Built upon second-century foundations. St. Peter\u2019s features a dome designed by the artist and architect Michelangelo.10 Intricate mosaics\u2014enormous \u201cpaintings\u201d fashioned from millions of tiny cut stones of various colors\u2014lining each of the basilica\u2019s several smaller domes. The marble floor, with its intricate designs, covers the cathedral\u2019s catacombs, where popes are buried. Sculptures by Michelangelo and Bernini, including Michelangelo\u2019s poignant Piet\u00e0, contributes to the basilica\u2019s beauty.     However, to many, the most spectacular part of Vatican City is the Sistine Chapel. This vast chapel displays what many consider some of the most important works of Renaissance art: Michelangelo\u2019s awe-inspiring frescoes. These frescoes\u2014paintings made on freshly spread, still-moist plaster\u2014capture the attention of viewers with a complex array of religious images. One of his most famous frescoes, The Last Judgment, is painted on the west wall. A series of interrelated frescoes covers the vaulted ceiling.     Despite its small size, Vatican City offers its many visitors a chance to see a wide range of historical and artistic wonders. It is easy to understand why the city has become one of the most frequently visited places in the world.\n ",
@@ -1143,7 +1470,10 @@
                         "C. For instance,",
                         "D. OMIT the underlined portion"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nVatican City\u2019s Wonders       Surrounded by the ancient city of Rome, Vatican City is an independent nation on the west bank of the Tiber River. This tiny country\u2014about one-sixth of a square mile in all\u2014is also home to a disproportionately large number of sites with great historical, artistic, and which have religious significance.     The Vatican Museums house a great many valuable paintings, sculptures, pieces of jewelry, and tapestries, as well as the world\u2019s most extensive collections of ancient manuscripts. Scholars often probe the museums\u2019 archives of early written works for insights into lives led long ago.     _ St. Peter\u2019s Basilica, the largest cathedral in the Northern Hemisphere, is remarkable. Built upon second-century foundations. St. Peter\u2019s features a dome designed by the artist and architect Michelangelo.10 Intricate mosaics\u2014enormous \u201cpaintings\u201d fashioned from millions of tiny cut stones of various colors\u2014lining each of the basilica\u2019s several smaller domes. The marble floor, with its intricate designs, covers the cathedral\u2019s catacombs, where popes are buried. Sculptures by Michelangelo and Bernini, including Michelangelo\u2019s poignant Piet\u00e0, contributes to the basilica\u2019s beauty.     However, to many, the most spectacular part of Vatican City is the Sistine Chapel. This vast chapel displays what many consider some of the most important works of Renaissance art: Michelangelo\u2019s awe-inspiring frescoes. These frescoes\u2014paintings made on freshly spread, still-moist plaster\u2014capture the attention of viewers with a complex array of religious images. One of his most famous frescoes, The Last Judgment, is painted on the west wall. A series of interrelated frescoes covers the vaulted ceiling.     Despite its small size, Vatican City offers its many visitors a chance to see a wide range of historical and artistic wonders. It is easy to understand why the city has become one of the most frequently visited places in the world.\n ",
@@ -1153,7 +1483,10 @@
                         "C. foundations:",
                         "D. foundations;"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nVatican City\u2019s Wonders       Surrounded by the ancient city of Rome, Vatican City is an independent nation on the west bank of the Tiber River. This tiny country\u2014about one-sixth of a square mile in all\u2014is also home to a disproportionately large number of sites with great historical, artistic, and which have religious significance.     The Vatican Museums house a great many valuable paintings, sculptures, pieces of jewelry, and tapestries, as well as the world\u2019s most extensive collections of ancient manuscripts. Scholars often probe the museums\u2019 archives of early written works for insights into lives led long ago.     Accordingly, St. Peter\u2019s Basilica, the largest cathedral in the Northern Hemisphere, is remarkable. Built upon second-century _ St. Peter\u2019s features a dome designed by the artist and architect Michelangelo.10 Intricate mosaics\u2014enormous \u201cpaintings\u201d fashioned from millions of tiny cut stones of various colors\u2014lining each of the basilica\u2019s several smaller domes. The marble floor, with its intricate designs, covers the cathedral\u2019s catacombs, where popes are buried. Sculptures by Michelangelo and Bernini, including Michelangelo\u2019s poignant Piet\u00e0, contributes to the basilica\u2019s beauty.     However, to many, the most spectacular part of Vatican City is the Sistine Chapel. This vast chapel displays what many consider some of the most important works of Renaissance art: Michelangelo\u2019s awe-inspiring frescoes. These frescoes\u2014paintings made on freshly spread, still-moist plaster\u2014capture the attention of viewers with a complex array of religious images. One of his most famous frescoes, The Last Judgment, is painted on the west wall. A series of interrelated frescoes covers the vaulted ceiling.     Despite its small size, Vatican City offers its many visitors a chance to see a wide range of historical and artistic wonders. It is easy to understand why the city has become one of the most frequently visited places in the world.\n ",
@@ -1163,7 +1496,10 @@
                         "C. No, because it distracts attention from the paragraph\u2019s focus, which is on the architecture and visual art of St. Peter\u2019s.",
                         "D. No, because it adds more information about Michelangelo, who made only small contributions to Vatican City\u2019s art and architecture."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nVatican City\u2019s Wonders       Surrounded by the ancient city of Rome, Vatican City is an independent nation on the west bank of the Tiber River. This tiny country\u2014about one-sixth of a square mile in all\u2014is also home to a disproportionately large number of sites with great historical, artistic, and which have religious significance.     The Vatican Museums house a great many valuable paintings, sculptures, pieces of jewelry, and tapestries, as well as the world\u2019s most extensive collections of ancient manuscripts. Scholars often probe the museums\u2019 archives of early written works for insights into lives led long ago.     Accordingly, St. Peter\u2019s Basilica, the largest cathedral in the Northern Hemisphere, is remarkable. Built upon second-century foundations. St. Peter\u2019s features a dome designed by the artist and architect Michelangelo._ Intricate mosaics\u2014enormous \u201cpaintings\u201d fashioned from millions of tiny cut stones of various colors\u2014lining each of the basilica\u2019s several smaller domes. The marble floor, with its intricate designs, covers the cathedral\u2019s catacombs, where popes are buried. Sculptures by Michelangelo and Bernini, including Michelangelo\u2019s poignant Piet\u00e0, contributes to the basilica\u2019s beauty.     However, to many, the most spectacular part of Vatican City is the Sistine Chapel. This vast chapel displays what many consider some of the most important works of Renaissance art: Michelangelo\u2019s awe-inspiring frescoes. These frescoes\u2014paintings made on freshly spread, still-moist plaster\u2014capture the attention of viewers with a complex array of religious images. One of his most famous frescoes, The Last Judgment, is painted on the west wall. A series of interrelated frescoes covers the vaulted ceiling.     Despite its small size, Vatican City offers its many visitors a chance to see a wide range of historical and artistic wonders. It is easy to understand why the city has become one of the most frequently visited places in the world.\n ",
@@ -1173,7 +1509,10 @@
                         "C. line",
                         "D. lines"
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "If the writer were to delete the quotation marks around the wordpaintings\u00a0in the preceding sentence, the sentence would primarily lose a feature that suggests:",
@@ -1183,7 +1522,10 @@
                         "C. how carefully mosaics are put together.",
                         "D. that the mosaics in St. Peter\u2019s are not typical of mosaics in general."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Choose the best option.",
@@ -1193,7 +1535,10 @@
                         "C. has contributed",
                         "D. contribute"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Which of the following alternatives to the underlined portion would NOT be acceptable?",
@@ -1203,7 +1548,10 @@
                         "C. Still,",
                         "D. Nonetheless,"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nVatican City\u2019s Wonders       Surrounded by the ancient city of Rome, Vatican City is an independent nation on the west bank of the Tiber River. This tiny country\u2014about one-sixth of a square mile in all\u2014is also home to a disproportionately large number of sites with great historical, artistic, and which have religious significance.     The Vatican Museums house a great many valuable paintings, sculptures, pieces of jewelry, and tapestries, as well as the world\u2019s most extensive collections of ancient manuscripts. Scholars often probe the museums\u2019 archives of early written works for insights into lives led long ago.     Accordingly, St. Peter\u2019s Basilica, the largest cathedral in the Northern Hemisphere, is remarkable. Built upon second-century foundations. St. Peter\u2019s features a dome designed by the artist and architect Michelangelo.10 Intricate mosaics\u2014enormous \u201cpaintings\u201d fashioned from millions of tiny cut stones of various colors\u2014lining each of the basilica\u2019s several smaller domes. The marble floor, with its intricate designs, covers the cathedral\u2019s catacombs, where popes are buried. Sculptures by Michelangelo and Bernini, including Michelangelo\u2019s poignant Piet\u00e0, contributes to the basilica\u2019s beauty.     _ to many, the most spectacular part of Vatican City is the Sistine Chapel. This vast chapel displays what many consider some of the most important works of Renaissance art: Michelangelo\u2019s awe-inspiring frescoes. These frescoes\u2014paintings made on freshly spread, still-moist plaster\u2014capture the attention of viewers with a complex array of religious images. One of his most famous frescoes, The Last Judgment, is painted on the west wall. A series of interrelated frescoes covers the vaulted ceiling.     Despite its small size, Vatican City offers its many visitors a chance to see a wide range of historical and artistic wonders. It is easy to understand why the city has become one of the most frequently visited places in the world.\n ",
@@ -1213,7 +1561,10 @@
                         "C. consider, some,",
                         "D. consider, some"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 }
             ]
         },
@@ -1228,7 +1579,10 @@
                         "C. when",
                         "D. OMIT the underlined portion."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates _ and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1238,7 +1592,10 @@
                         "C. for: the presidency",
                         "D. for the presidency,"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "A"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. _ (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1248,7 +1605,10 @@
                         "C. However, suffragists",
                         "D. Suffragists"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without _ speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1258,7 +1618,10 @@
                         "C. movement or, music or,",
                         "D. movement: or music or"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d _ adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1268,7 +1631,10 @@
                         "C. having been",
                         "D. OMIT the underlined portion."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street _ the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1278,7 +1644,10 @@
                         "C. with",
                         "D. amid"
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "B",
+                    "text-babbage-001 Answer": "B"
                 },
                 {
                     "question": "For the sake of the logic and coherence of the paragraph, Sentence\u00a02 should be:",
@@ -1288,7 +1657,10 @@
                         "C. placed after Sentence 4.",
                         "D. OMITTED from the paragraph."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7    _ also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1298,7 +1670,10 @@
                         "C. another historical detail about the parade described in the preceding paragraph.",
                         "D. details that help establish the time and place of the essay."
                     ],
-                    "answer": "C"
+                    "answer": "C",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was _ Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1308,7 +1683,10 @@
                         "C. a live scene was",
                         "D. a live scene that"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d _ presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1318,7 +1696,10 @@
                         "C. that",
                         "D. OMIT the underlined portion."
                     ],
-                    "answer": "A"
+                    "answer": "A",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states _ women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1328,7 +1709,10 @@
                         "C. them as a way to remind them",
                         "D. remind them"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "A"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to _ that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1338,7 +1722,10 @@
                         "C. tiers stood a woman,",
                         "D. tiers stood, a woman"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "A",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "C"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the _ dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1348,7 +1735,10 @@
                         "C. becoming",
                         "D. became"
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "C",
+                    "text-babbage-001 Answer": "A"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women _ part of the 1916 Democratic Party\u2019s set of positions, or platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1358,7 +1748,10 @@
                         "C. set of positions\u2014its",
                         "D. OMIT the underlined portion."
                     ],
-                    "answer": "D"
+                    "answer": "D",
+                    "text-davinci-003 Answer": "C",
+                    "text-curie-001 Answer": "A",
+                    "text-babbage-001 Answer": "A"
                 },
                 {
                     "question": "Fill in the _:\nEdna Gellhorn\u2019s \u201cWalkless-Talkless Parade\u201d       In 1916, as the Democratic Party\u2019s national convention met in St. Louis, Missouri, to nominate candidates for the presidency and vice-presidency and to establish a platform, a set of positions on issues. Therefore, suffragists (those who advocated extending voting rights to women) wanted the Democrats\u2019 platform to support women\u2019s right to vote.     [1] Edna Gellhorn, a leader in the Missouri Equal Suffrage League, planned a \u201csilent parade\u201d without movement or music or speech. [2] She gathered together 7,000 St. Louis women. [3] Similar forms of demonstrations, known as \u201cwalkless-talkless parades,\u201d had been adopted by national woman suffrage organizations in Washington, D.C. [4] Gellhorn made telephone calls and wrote letters. [5] They donned yellow sashes over white dresses and held yellow umbrellas aloft as they lined both sides of Locust Street between the convention delegates\u2019 hotel and the meeting hall. 7     At the end of the \u201cGolden Lane,\u201d as the event was also called, Gellhorn organized a three-tiered \u201cliving tableau,\u201d which a live scene was presented by silent, costumed participants. Women wearing white represented states where women could vote. Others wore gray to represent states with partial suffrage (women could vote in school board elections, for example). Women draped in black represented states that refused women the vote. This group held out manacled hands to them as a reminder that, without the vote, women were deprived of their freedom. At the top of the tiers, stood a woman dressed as Lady Liberty.     Edna Gellhorn witnessed a victory that year when votes for women would became part of the 1916 Democratic Party\u2019s _ platform. Then finally in August 1920, after more than seventy years and countless parades, speeches, letters, and calls, the Nineteenth Amendment, to the U.S. Constitution, was ratified, thus giving all women the right to vote.\n ",
@@ -1368,7 +1761,10 @@
                         "C. Amendment, to the U.S. Constitution",
                         "D. Amendment to the U.S. Constitution,"
                     ],
-                    "answer": "B"
+                    "answer": "B",
+                    "text-davinci-003 Answer": "D",
+                    "text-curie-001 Answer": "D",
+                    "text-babbage-001 Answer": "B"
                 }
             ]
         }
@@ -1383,7 +1779,10 @@
                 "D. $408.04",
                 "E. $444.40"
             ],
-            "answer": "D"
+            "answer": "D",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "What is the greatest common factor of 42, 126, and 210 ?",
@@ -1394,7 +1793,10 @@
                 "D. 21",
                 "E. 42"
             ],
-            "answer": "E"
+            "answer": "E",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "Sales for a business were 3\u00a0million dollars more the second year than the first, and sales for the third year were double the sales for the second year. If sales for the third year were 38\u00a0million dollars, what were sales, in millions of dollars, for the first year?",
@@ -1405,7 +1807,10 @@
                 "D. 22",
                 "E. 35"
             ],
-            "answer": "A"
+            "answer": "A",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "How many irrational numbers are there between 1 and 6 ?",
@@ -1416,7 +1821,10 @@
                 "D. 10",
                 "E. Infinitely many"
             ],
-            "answer": "E"
+            "answer": "E",
+            "text-davinci-003 Answer": "E",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "D"
         },
         {
             "question": "A typical high school student consumes 67.5\u00a0pounds of sugar per year. As part of a new nutrition plan, each member of a track team plans to lower the sugar he or she consumes by at least 20% for the coming year. Assuming each track member had consumed sugar at the level of a typical high school student and will adhere to this plan for the coming year, what is the maximum number of pounds of sugar to be consumed by each track team member in the coming year?",
@@ -1427,7 +1835,10 @@
                 "D. 54",
                 "E. 66"
             ],
-            "answer": "D"
+            "answer": "D",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "If\u00a0xy\u00a0= 144,\u00a0x\u00a0+\u00a0y\u00a0= 30, and\u00a0x\u00a0>\u00a0y, what is the value of\u00a0x\u00a0\u2013\u00a0y\u00a0?",
@@ -1438,7 +1849,10 @@
                 "D. 22",
                 "E. 24"
             ],
-            "answer": "C"
+            "answer": "C",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "A DVD player with a list price of $100 is marked down 30%. If John gets an employee discount of 20% off the sale price, how much does John pay for the DVD player ?",
@@ -1449,7 +1863,10 @@
                 "D. $50.00",
                 "E. $44.00"
             ],
-            "answer": "C"
+            "answer": "C",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "What is the degree measure of the acute angle formed by the hands of a 12-hour clock that reads exactly 1\u00a0o\u2019clock?",
@@ -1460,7 +1877,10 @@
                 "D. 60\u00b0",
                 "E. 72\u00b0"
             ],
-            "answer": "B"
+            "answer": "B",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "A",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "In the standard (x,y)coordinate plane, what are the coordinates of the midpoint of a line segment whose endpoints are (\u20133,0) and (7,4) ?",
@@ -1471,7 +1891,10 @@
                 "D. (5,4)",
                 "E. (5,5)"
             ],
-            "answer": "A"
+            "answer": "A",
+            "text-davinci-003 Answer": "C",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "Which of the following statements must be true whenever n, a, b, and c are positive integers such that n < a, c > a, and b > c ?",
@@ -1482,7 +1905,10 @@
                 "D. n + b = a + c",
                 "E. 2n > a + b"
             ],
-            "answer": "B"
+            "answer": "B",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "D",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "What is the difference between 1.8 and 1.08?",
@@ -1493,7 +1919,10 @@
                 "D. 0.72",
                 "E. 0.72"
             ],
-            "answer": "C"
+            "answer": "C",
+            "text-davinci-003 Answer": "E",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "An industrial cleaner is manufactured using only the 3\u00a0secret ingredients A, B, and C, which are mixed in the ratio of 2:3:5, respectively, by weight. How many pounds of secret ingredient B are in a 42-pound (net weight) bucket of this cleaner?",
@@ -1504,7 +1933,10 @@
                 "D. 18.0",
                 "E. 21.0"
             ],
-            "answer": "B"
+            "answer": "B",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "E",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "After arranging the flower bed, Taher decides that the flower bed would look more attractive if 1 of the angles in the triangle were a right angle. He decides to place the right angle at vertex A and to leave the lengths of AB and AC as 4 and 5 feet, respectively. To the nearest 0.1 foot, how long of a piece of lumber would he need to replace the 6-foot piece represented by BC ?",
@@ -1515,7 +1947,10 @@
                 "D. 6.4",
                 "E. 7.8"
             ],
-            "answer": "D"
+            "answer": "D",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "B",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "A neighborhood recreation program serves a total of 280\u00a0children who are either 11 years old or 12 years old. The sum of the children\u2019s ages is 3,238 years. How many 11-year-old children does the recreation program serve?",
@@ -1526,7 +1961,10 @@
                 "D. 158",
                 "E. 208"
             ],
-            "answer": "B"
+            "answer": "B",
+            "text-davinci-003 Answer": "B",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "Ms. Hernandez began her math class by saying:",
@@ -1537,7 +1975,10 @@
                 "D. 16",
                 "E. 18"
             ],
-            "answer": "E"
+            "answer": "E",
+            "text-davinci-003 Answer": "E",
+            "text-curie-001 Answer": "A",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "Each of the variables\u00a0t,\u00a0w,\u00a0x,\u00a0y, and\u00a0z\u00a0represents a different\u00a0positive\u00a0real number. Given the equations below, which of the 4\u00a0variables\u00a0w,\u00a0x,\u00a0y, and\u00a0z\u00a0necessarily has the greatest value?",
@@ -1548,7 +1989,10 @@
                 "D. z",
                 "E. Cannot be determined from the given information"
             ],
-            "answer": "D"
+            "answer": "D",
+            "text-davinci-003 Answer": "E",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         },
         {
             "question": "If\u00a0h(x) =\u00a0x\u00b3 +\u00a0x\u00a0and\u00a0g(x) = 2x\u00a0+ 3, then\u00a0g(h(2)) = ?",
@@ -1559,7 +2003,10 @@
                 "D. 19",
                 "E. 23"
             ],
-            "answer": "E"
+            "answer": "E",
+            "text-davinci-003 Answer": "E",
+            "text-curie-001 Answer": "C",
+            "text-babbage-001 Answer": "C"
         }
     ]
 }

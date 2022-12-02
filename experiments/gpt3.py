@@ -5,10 +5,10 @@ import time
 import numpy as np
 import re
 
-openai.api_key = "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"
+openai.api_key = "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"
 global model
-#model="text-davinci-003"
-#model='text-curie-001'
+# model="text-davinci-003"
+# model='text-curie-001'
 model='text-babbage-001'
 
 global temp
@@ -19,6 +19,7 @@ temp=1
 def generateAnswersJson():
     # loop data folder to load data from json, pass into the pipeline, and write answers to a new json
     files=['myers-briggs.json','lsat.json','psychopath-screening.json']
+    files = ['act.json']
     #files = ['lsat.json', 'psychopath-screening.json']
     #files=os.listdir('../data/')
     for file in files:
@@ -77,6 +78,82 @@ def generateAnswers(data, file):
                     if data[category][j]['questions'][k][model+' Answer'] == data[category][j]['questions'][k]['answer']: right+=1
 
                 print(round(right/count,3))
+    elif file == 'act.json':
+        # act categories
+        categories = ['math', 'reading', 'english']
+        for category in categories:
+            print(category)
+            for j in range(len(data[category])):
+                if category == 'reading':
+                    passage = data[category][j]['passage']
+                
+                if category == 'math':
+                    time.sleep(3)
+                    #print(data[category][j]['question'])
+                    question = data[category][j]['question']
+                    options = '\n'.join(str(opt) for opt in data[category][j]['options'])
+                    prompt = ''
+                    if category == 'reading':
+                        prompt = f'{passage} \n {question} \n {options} \n Choose One. Answer: '
+                    else:
+                        prompt = f'{question} \n {options} \n Choose One. Answer: '
+                    # pass question and options to pipeline
+                    answer = openai.Completion.create(
+                                        model=model,
+                                        prompt=prompt,
+                                        temperature=temp,
+                                        max_tokens=1000,
+                                        top_p=1,
+                                        frequency_penalty=0,
+                                        presence_penalty=0
+                                    )['choices'][0]['text']
+                    for char in answer:
+                        if char in ops:
+                            ans = char
+                            break
+                    answers.append(ans)
+                    # write questions and answers to data
+                    data[category][j][model+' Answer'] = ans
+                    print('GPT:' +data[category][j][model+' Answer'])
+                    print('Ans:' +data[category][j]['answer'])
+                    print(' ')
+                    count+=1
+                    if data[category][j][model+' Answer'] == data[category][j]['answer']: right+=1
+                else:
+                     for k in range(len(data[category][j]['questions'])):
+                        time.sleep(3)
+                        #print(data[category][j]['questions'][k]['question'])
+                        question = data[category][j]['questions'][k]['question']
+                        options = '\n'.join(str(opt) for opt in data[category][j]['questions'][k]['options'])
+                        prompt = ''
+                        if category == 'reading':
+                            prompt = f'{passage} \n {question} \n {options} \n Choose One. Answer: '
+                        else:
+                            prompt = f'{question} \n {options} \n Choose One. Answer: '
+                        # pass question and options to pipeline
+                        answer = openai.Completion.create(
+                                            model=model,
+                                            prompt=prompt,
+                                            temperature=temp,
+                                            max_tokens=960,
+                                            top_p=1,
+                                            frequency_penalty=0,
+                                            presence_penalty=0
+                                        )['choices'][0]['text']
+                        for char in answer:
+                            if char in ops:
+                                ans = char
+                                break
+                        answers.append(ans)
+                        # write questions and answers to data
+                        data[category][j]['questions'][k][model+' Answer'] = ans
+                        print('GPT:' +data[category][j]['questions'][k][model+' Answer'])
+                        print('Ans:' +data[category][j]['questions'][k]['answer'])
+                        print(' ')
+                        count+=1
+                        if data[category][j]['questions'][k][model+' Answer'] == data[category][j]['questions'][k]['answer']: right+=1
+
+            print(round(right/count,3))
     else:
         for j in range(len(data['questions'])):
             time.sleep(3)
@@ -114,4 +191,5 @@ def generateAnswers(data, file):
         print(ans+': '+str(answers.count(ans)))
     return data
 
-generateAnswersJson()
+if __name__ == '__main__':
+    generateAnswersJson()
