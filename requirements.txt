@@ -3,7 +3,6 @@ beautifulsoup4
 requests
 html5lib
 selenium
-dill
 
 # hugging face transformers library
 transformers

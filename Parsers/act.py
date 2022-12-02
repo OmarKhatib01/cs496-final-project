@@ -1,11 +1,11 @@
-import os
+import json
 import re
 from collections import defaultdict
 from dataclasses import dataclass
 
-import dill
 from bs4 import BeautifulSoup
 from selenium import webdriver
+
 
 
 @dataclass
@@ -20,6 +20,13 @@ class Question:
 
 	def __str__(self) -> str:
 		return f"{self.question}\n{self.answers}\nCorrect answer: {self.correct_answer}"
+
+	def to_dict(self) -> dict:
+		return {
+			"question": self.question,
+			"options": [f'{chr(i + 65)}. {self.answers[i]}' for i in range(len(self.answers))],
+			"answer": chr(self.correct_answer + 65)
+		}
 
 @dataclass
 class MathQuestion(Question):
@@ -264,19 +271,23 @@ class ACT():
 			print(f'{i+1}\n{question}\n')
 
 def main():
-	act = None
-	# doesn't work for some reason rn
-	if os.path.exists('act.obj'):
-		with open('act.obj', 'rb') as f:
-			act = dill.load(f)
-	else:
-		act = ACT()
-		with open('act.obj', 'wb') as f:
-			dill.dump(act, f)
+	act = ACT()
+	with open('data/act.json', 'w') as f:
+		dict = {}
 
-	act.print_reading()
-	act.print_math(only_valid=True)
-	act.print_english()
+		for subject, passages in act.passages.items():
+			subject_passages = []
+			for passage_idx, passage in enumerate(passages):
+				relevant_questions = filter(lambda question: question.passage_idx == passage_idx, act.questions[subject])
+				subject_passages.append({
+					'passage': passage,
+					'questions': [question.to_dict() for question in relevant_questions]
+				})
+			dict[subject] = subject_passages
+		
+		valid_math_questions = filter(lambda x: not x.contains_figure and not x.contains_script, act.questions['math'])
+		dict["math"] = [question.to_dict() for question in valid_math_questions]
+		json.dump(dict, f, indent=4)
 
 
 if __name__ == '__main__':
