@@ -1,103 +1,120 @@
-,text-davinci-003,text-curie-001,text-babbage-001
-readingComprehension,"0     C
-1     C
-2     C
-3     B
-4     C
-     ..
-83    C
-84    D
-85    C
-86    E
-87    C
-Length: 88, dtype: object","0     C
-1     C
-2     C
-3     B
-4     C
-     ..
-84    D
-85    C
-86    E
-87    C
-88    C
-Length: 89, dtype: object","0     C
-1     C
-2     C
-3     B
-4     C
-     ..
-85    C
-86    E
-87    C
-88    C
-89    C
-Length: 90, dtype: object"
-analyticalReasoning,"0     C
-1     C
-2     E
-3     D
-4     E
-     ..
-83    C
-84    E
-85    E
-86    E
-87    B
-Length: 88, dtype: object","0     C
-1     C
-2     E
-3     D
-4     E
-     ..
-84    E
-85    E
-86    E
-87    B
-88    C
-Length: 89, dtype: object","0     C
-1     C
-2     E
-3     D
-4     E
-     ..
-85    E
-86    E
-87    B
-88    C
-89    C
-Length: 90, dtype: object"
-logicalReasoning,"0      B
-1      C
-2      C
-3      C
-4      B
-      ..
-170    C
-171    D
-172    C
-173    C
-174    A
-Length: 175, dtype: object","0      B
-1      C
-2      C
-3      C
-4      B
-      ..
-171    D
-172    C
-173    C
-174    A
-175    C
-Length: 176, dtype: object","0      B
-1      C
-2      C
-3      C
-4      B
-      ..
-172    C
-173    C
-174    A
-175    C
-176    C
-Length: 177, dtype: object"
+,Test,Category,Answer,text-davinci-003,text-curie-001,text-babbage-001
+0,lsat,readingComprehension,C,C,C,C
+1,lsat,readingComprehension,B,B,C,D
+2,lsat,readingComprehension,D,B,C,C
+3,lsat,readingComprehension,E,C,C,C
+4,lsat,readingComprehension,B,B,B,D
+5,lsat,readingComprehension,D,D,C,C
+6,lsat,readingComprehension,E,E,C,B
+7,lsat,readingComprehension,A,D,C,C
+8,lsat,readingComprehension,C,C,C,C
+9,lsat,readingComprehension,D,D,C,C
+10,lsat,readingComprehension,B,B,C,C
+11,lsat,readingComprehension,C,C,A,C
+12,lsat,readingComprehension,E,E,C,C
+13,lsat,readingComprehension,B,B,C,C
+14,lsat,readingComprehension,E,E,E,C
+15,lsat,readingComprehension,C,C,B,C
+16,lsat,readingComprehension,D,D,B,D
+17,lsat,readingComprehension,C,B,C,C
+18,lsat,readingComprehension,D,D,B,C
+19,lsat,readingComprehension,A,A,B,C
+20,lsat,readingComprehension,C,A,E,C
+21,lsat,readingComprehension,B,B,B,C
+22,lsat,readingComprehension,D,E,C,C
+23,lsat,readingComprehension,C,C,D,C
+24,lsat,readingComprehension,A,E,C,C
+25,lsat,readingComprehension,E,E,C,C
+26,lsat,readingComprehension,B,B,B,C
+27,lsat,readingComprehension,C,C,B,C
+28,lsat,readingComprehension,A,D,C,E
+29,lsat,readingComprehension,E,C,C,C
+30,lsat,analyticalReasoning,C,C,C,E
+31,lsat,analyticalReasoning,D,D,E,E
+32,lsat,analyticalReasoning,B,D,E,C
+33,lsat,analyticalReasoning,B,D,B,D
+34,lsat,analyticalReasoning,A,B,C,E
+35,lsat,analyticalReasoning,D,D,C,E
+36,lsat,analyticalReasoning,E,E,E,E
+37,lsat,analyticalReasoning,B,E,C,E
+38,lsat,analyticalReasoning,E,C,C,E
+39,lsat,analyticalReasoning,B,A,C,C
+40,lsat,analyticalReasoning,C,C,B,E
+41,lsat,analyticalReasoning,C,B,C,E
+42,lsat,analyticalReasoning,D,B,D,E
+43,lsat,analyticalReasoning,E,D,A,C
+44,lsat,analyticalReasoning,B,E,D,E
+45,lsat,analyticalReasoning,D,B,C,E
+46,lsat,analyticalReasoning,B,A,C,E
+47,lsat,analyticalReasoning,C,C,E,E
+48,lsat,analyticalReasoning,B,A,E,C
+49,lsat,analyticalReasoning,E,A,C,E
+50,lsat,analyticalReasoning,D,B,C,C
+51,lsat,analyticalReasoning,B,C,C,E
+52,lsat,analyticalReasoning,E,E,B,C
+53,lsat,analyticalReasoning,A,A,C,E
+54,lsat,analyticalReasoning,B,E,E,E
+55,lsat,analyticalReasoning,D,B,C,B
+56,lsat,analyticalReasoning,E,E,C,C
+57,lsat,analyticalReasoning,C,B,E,C
+58,lsat,analyticalReasoning,A,E,E,E
+59,lsat,analyticalReasoning,C,B,C,C
+60,lsat,logicalReasoning,D,B,C,C
+61,lsat,logicalReasoning,D,C,B,C
+62,lsat,logicalReasoning,A,C,C,C
+63,lsat,logicalReasoning,E,D,C,C
+64,lsat,logicalReasoning,A,B,B,C
+65,lsat,logicalReasoning,C,C,C,D
+66,lsat,logicalReasoning,B,B,D,E
+67,lsat,logicalReasoning,C,B,C,C
+68,lsat,logicalReasoning,D,E,C,C
+69,lsat,logicalReasoning,D,E,C,D
+70,lsat,logicalReasoning,A,A,B,C
+71,lsat,logicalReasoning,E,B,C,C
+72,lsat,logicalReasoning,B,B,C,C
+73,lsat,logicalReasoning,D,D,C,C
+74,lsat,logicalReasoning,C,C,C,D
+75,lsat,logicalReasoning,E,E,C,D
+76,lsat,logicalReasoning,A,C,C,C
+77,lsat,logicalReasoning,E,B,B,C
+78,lsat,logicalReasoning,D,A,C,C
+79,lsat,logicalReasoning,B,B,C,C
+80,lsat,logicalReasoning,B,A,B,C
+81,lsat,logicalReasoning,E,B,D,D
+82,lsat,logicalReasoning,D,C,C,C
+83,lsat,logicalReasoning,C,C,C,C
+84,lsat,logicalReasoning,D,D,B,C
+85,lsat,logicalReasoning,D,C,D,E
+86,lsat,logicalReasoning,B,B,C,C
+87,lsat,logicalReasoning,D,D,C,C
+88,lsat,logicalReasoning,E,E,D,C
+89,lsat,logicalReasoning,D,C,C,C
+90,lsat,logicalReasoning,D,B,C,C
+91,lsat,logicalReasoning,C,C,B,C
+92,lsat,logicalReasoning,A,C,B,C
+93,lsat,logicalReasoning,C,D,C,C
+94,lsat,logicalReasoning,E,E,D,D
+95,lsat,logicalReasoning,B,D,B,C
+96,lsat,logicalReasoning,E,E,C,C
+97,lsat,logicalReasoning,C,C,C,C
+98,lsat,logicalReasoning,C,B,B,C
+99,lsat,logicalReasoning,E,E,C,C
+100,lsat,logicalReasoning,B,C,B,C
+101,lsat,logicalReasoning,E,A,C,C
+102,lsat,logicalReasoning,A,E,B,C
+103,lsat,logicalReasoning,C,D,B,C
+104,lsat,logicalReasoning,E,E,C,C
+105,lsat,logicalReasoning,B,B,C,A
+106,lsat,logicalReasoning,B,B,C,B
+107,lsat,logicalReasoning,B,B,C,C
+108,lsat,logicalReasoning,C,C,B,C
+109,lsat,logicalReasoning,D,D,C,C
+110,lsat,logicalReasoning,E,E,C,C
+111,lsat,logicalReasoning,B,B,B,D
+112,lsat,logicalReasoning,C,C,A,C
+113,lsat,logicalReasoning,C,E,C,C
+114,lsat,logicalReasoning,A,A,B,C
+115,lsat,logicalReasoning,B,C,A,C
+116,lsat,logicalReasoning,E,B,C,C
+117,lsat,logicalReasoning,B,D,C,C
+118,lsat,logicalReasoning,A,A,C,C
