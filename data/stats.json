@@ -704,5 +704,155 @@
                 "percentage_of_letter": "0.026845637583892617"
             }
         }
+    },
+    "myers-briggs.json": {
+        "num_total": "48",
+        "text-davinci-003": {
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "3",
+                    "percentage_of_letter": "0.0625"
+                },
+                "B": {
+                    "number_of_letter": "12",
+                    "percentage_of_letter": "0.25"
+                },
+                "C": {
+                    "number_of_letter": "4",
+                    "percentage_of_letter": "0.08333333333333333"
+                },
+                "D": {
+                    "number_of_letter": "29",
+                    "percentage_of_letter": "0.6041666666666666"
+                },
+                "E": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                }
+            }
+        },
+        "text-curie-001": {
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                },
+                "B": {
+                    "number_of_letter": "1",
+                    "percentage_of_letter": "0.020833333333333332"
+                },
+                "C": {
+                    "number_of_letter": "17",
+                    "percentage_of_letter": "0.3541666666666667"
+                },
+                "D": {
+                    "number_of_letter": "12",
+                    "percentage_of_letter": "0.25"
+                },
+                "E": {
+                    "number_of_letter": "18",
+                    "percentage_of_letter": "0.375"
+                }
+            }
+        },
+        "text-babbage-001": {
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "10",
+                    "percentage_of_letter": "0.20833333333333334"
+                },
+                "B": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                },
+                "C": {
+                    "number_of_letter": "27",
+                    "percentage_of_letter": "0.5625"
+                },
+                "D": {
+                    "number_of_letter": "6",
+                    "percentage_of_letter": "0.125"
+                },
+                "E": {
+                    "number_of_letter": "5",
+                    "percentage_of_letter": "0.10416666666666667"
+                }
+            }
+        }
+    },
+    "psychopath-screening.json": {
+        "num_total": "58",
+        "text-davinci-003": {
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "11",
+                    "percentage_of_letter": "0.1896551724137931"
+                },
+                "B": {
+                    "number_of_letter": "38",
+                    "percentage_of_letter": "0.6551724137931034"
+                },
+                "C": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                },
+                "D": {
+                    "number_of_letter": "9",
+                    "percentage_of_letter": "0.15517241379310345"
+                },
+                "E": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                }
+            }
+        },
+        "text-curie-001": {
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                },
+                "B": {
+                    "number_of_letter": "5",
+                    "percentage_of_letter": "0.08620689655172414"
+                },
+                "C": {
+                    "number_of_letter": "30",
+                    "percentage_of_letter": "0.5172413793103449"
+                },
+                "D": {
+                    "number_of_letter": "23",
+                    "percentage_of_letter": "0.39655172413793105"
+                },
+                "E": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                }
+            }
+        },
+        "text-babbage-001": {
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                },
+                "B": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                },
+                "C": {
+                    "number_of_letter": "58",
+                    "percentage_of_letter": "1.0"
+                },
+                "D": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                },
+                "E": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                }
+            }
+        }
     }
 }

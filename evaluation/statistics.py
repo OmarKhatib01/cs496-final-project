@@ -79,10 +79,11 @@ def getStatistics(files, models):
             stats[file]['num_total'] = str(num_total)
 
             for model in models:
-                num_correct = np.sum(answers[model]==answers['Answer'])
-                stats[file][model]['num_correct'] = str(num_correct)
+                if file in ['lsat.json', 'act.json']:
+                    num_correct = np.sum(answers[model]==answers['Answer'])
+                    stats[file][model]['num_correct'] = str(num_correct)
 
-                stats[file][model]['accuracy'] = str(num_correct / num_total)
+                    stats[file][model]['accuracy'] = str(num_correct / num_total)
 
                 for letter in ['A','B','C','D', 'E']:
                     number_of_letter = np.sum(answers[model] == letter)
@@ -104,14 +105,15 @@ def getStatistics(files, models):
                         number_of_letter_category = np.sum(relevant_answers[model] == letter)
                         stats[file][model]['categories'][category]['answer_distribution'][letter]['number_of_letter'] = str(number_of_letter_category)
                         stats[file][model]['categories'][category]['answer_distribution'][letter]['percentage_of_letter'] = str(number_of_letter_category / num_total_category)
+            
+            if file in ['lsat.json', 'act.json']:
+                average_accuracy = np.mean([float(stats[file][model]['accuracy']) for model in models])
+                stats[file]['average_accuracy'] = str(average_accuracy)
 
-            average_accuracy = np.mean([float(stats[file][model]['accuracy']) for model in models])
-            stats[file]['average_accuracy'] = str(average_accuracy)
-
-            for letter in ['A','B','C','D', 'E']:
-                number_of_letter = np.sum(answers['Answer']==letter)
-                stats[file]['ground_truth_distribution'][letter]['number_of_letter'] = str(number_of_letter)
-                stats[file]['ground_truth_distribution'][letter]['percentage_of_letter'] = str(number_of_letter / num_total)
+                for letter in ['A','B','C','D', 'E']:
+                    number_of_letter = np.sum(answers['Answer']==letter)
+                    stats[file]['ground_truth_distribution'][letter]['number_of_letter'] = str(number_of_letter)
+                    stats[file]['ground_truth_distribution'][letter]['percentage_of_letter'] = str(number_of_letter / num_total)
     return stats
 
 if __name__ == '__main__':
@@ -121,6 +123,8 @@ if __name__ == '__main__':
     files = {
         'lsat.json': ['readingComprehension', 'analyticalReasoning', 'logicalReasoning'], 
         'act.json': ['reading', 'english', 'math'],
+        'myers-briggs.json': [],
+        'psychopath-screening.json': [],
     }
     models = ['text-davinci-003', 'text-curie-001', 'text-babbage-001']
     stats = getStatistics(files, models)
