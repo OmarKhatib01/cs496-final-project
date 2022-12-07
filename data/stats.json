@@ -1,0 +1,708 @@
+{
+    "lsat.json": {
+        "num_total": "119",
+        "text-davinci-003": {
+            "num_correct": "59",
+            "accuracy": "0.4957983193277311",
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "13",
+                    "percentage_of_letter": "0.1092436974789916"
+                },
+                "B": {
+                    "number_of_letter": "33",
+                    "percentage_of_letter": "0.2773109243697479"
+                },
+                "C": {
+                    "number_of_letter": "29",
+                    "percentage_of_letter": "0.24369747899159663"
+                },
+                "D": {
+                    "number_of_letter": "20",
+                    "percentage_of_letter": "0.16806722689075632"
+                },
+                "E": {
+                    "number_of_letter": "24",
+                    "percentage_of_letter": "0.20168067226890757"
+                }
+            },
+            "categories": {
+                "readingComprehension": {
+                    "num_total": "30",
+                    "num_correct": "21",
+                    "accuracy": "0.7",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.06666666666666667"
+                        },
+                        "B": {
+                            "number_of_letter": "8",
+                            "percentage_of_letter": "0.26666666666666666"
+                        },
+                        "C": {
+                            "number_of_letter": "8",
+                            "percentage_of_letter": "0.26666666666666666"
+                        },
+                        "D": {
+                            "number_of_letter": "6",
+                            "percentage_of_letter": "0.2"
+                        },
+                        "E": {
+                            "number_of_letter": "6",
+                            "percentage_of_letter": "0.2"
+                        }
+                    }
+                },
+                "analyticalReasoning": {
+                    "num_total": "30",
+                    "num_correct": "9",
+                    "accuracy": "0.3",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "5",
+                            "percentage_of_letter": "0.16666666666666666"
+                        },
+                        "B": {
+                            "number_of_letter": "8",
+                            "percentage_of_letter": "0.26666666666666666"
+                        },
+                        "C": {
+                            "number_of_letter": "5",
+                            "percentage_of_letter": "0.16666666666666666"
+                        },
+                        "D": {
+                            "number_of_letter": "5",
+                            "percentage_of_letter": "0.16666666666666666"
+                        },
+                        "E": {
+                            "number_of_letter": "7",
+                            "percentage_of_letter": "0.23333333333333334"
+                        }
+                    }
+                },
+                "logicalReasoning": {
+                    "num_total": "59",
+                    "num_correct": "29",
+                    "accuracy": "0.4915254237288136",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "6",
+                            "percentage_of_letter": "0.1016949152542373"
+                        },
+                        "B": {
+                            "number_of_letter": "17",
+                            "percentage_of_letter": "0.288135593220339"
+                        },
+                        "C": {
+                            "number_of_letter": "16",
+                            "percentage_of_letter": "0.2711864406779661"
+                        },
+                        "D": {
+                            "number_of_letter": "9",
+                            "percentage_of_letter": "0.15254237288135594"
+                        },
+                        "E": {
+                            "number_of_letter": "11",
+                            "percentage_of_letter": "0.1864406779661017"
+                        }
+                    }
+                }
+            }
+        },
+        "text-curie-001": {
+            "num_correct": "25",
+            "accuracy": "0.21008403361344538",
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "4",
+                    "percentage_of_letter": "0.03361344537815126"
+                },
+                "B": {
+                    "number_of_letter": "27",
+                    "percentage_of_letter": "0.226890756302521"
+                },
+                "C": {
+                    "number_of_letter": "70",
+                    "percentage_of_letter": "0.5882352941176471"
+                },
+                "D": {
+                    "number_of_letter": "8",
+                    "percentage_of_letter": "0.06722689075630252"
+                },
+                "E": {
+                    "number_of_letter": "10",
+                    "percentage_of_letter": "0.08403361344537816"
+                }
+            },
+            "categories": {
+                "readingComprehension": {
+                    "num_total": "30",
+                    "num_correct": "7",
+                    "accuracy": "0.23333333333333334",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.03333333333333333"
+                        },
+                        "B": {
+                            "number_of_letter": "8",
+                            "percentage_of_letter": "0.26666666666666666"
+                        },
+                        "C": {
+                            "number_of_letter": "18",
+                            "percentage_of_letter": "0.6"
+                        },
+                        "D": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.03333333333333333"
+                        },
+                        "E": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.06666666666666667"
+                        }
+                    }
+                },
+                "analyticalReasoning": {
+                    "num_total": "30",
+                    "num_correct": "6",
+                    "accuracy": "0.2",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.03333333333333333"
+                        },
+                        "B": {
+                            "number_of_letter": "3",
+                            "percentage_of_letter": "0.1"
+                        },
+                        "C": {
+                            "number_of_letter": "16",
+                            "percentage_of_letter": "0.5333333333333333"
+                        },
+                        "D": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.06666666666666667"
+                        },
+                        "E": {
+                            "number_of_letter": "8",
+                            "percentage_of_letter": "0.26666666666666666"
+                        }
+                    }
+                },
+                "logicalReasoning": {
+                    "num_total": "59",
+                    "num_correct": "12",
+                    "accuracy": "0.2033898305084746",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.03389830508474576"
+                        },
+                        "B": {
+                            "number_of_letter": "16",
+                            "percentage_of_letter": "0.2711864406779661"
+                        },
+                        "C": {
+                            "number_of_letter": "36",
+                            "percentage_of_letter": "0.6101694915254238"
+                        },
+                        "D": {
+                            "number_of_letter": "5",
+                            "percentage_of_letter": "0.0847457627118644"
+                        },
+                        "E": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "text-babbage-001": {
+            "num_correct": "26",
+            "accuracy": "0.2184873949579832",
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "1",
+                    "percentage_of_letter": "0.008403361344537815"
+                },
+                "B": {
+                    "number_of_letter": "3",
+                    "percentage_of_letter": "0.025210084033613446"
+                },
+                "C": {
+                    "number_of_letter": "82",
+                    "percentage_of_letter": "0.6890756302521008"
+                },
+                "D": {
+                    "number_of_letter": "11",
+                    "percentage_of_letter": "0.09243697478991597"
+                },
+                "E": {
+                    "number_of_letter": "22",
+                    "percentage_of_letter": "0.18487394957983194"
+                }
+            },
+            "categories": {
+                "readingComprehension": {
+                    "num_total": "30",
+                    "num_correct": "9",
+                    "accuracy": "0.3",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        },
+                        "B": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.03333333333333333"
+                        },
+                        "C": {
+                            "number_of_letter": "25",
+                            "percentage_of_letter": "0.8333333333333334"
+                        },
+                        "D": {
+                            "number_of_letter": "3",
+                            "percentage_of_letter": "0.1"
+                        },
+                        "E": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.03333333333333333"
+                        }
+                    }
+                },
+                "analyticalReasoning": {
+                    "num_total": "30",
+                    "num_correct": "5",
+                    "accuracy": "0.16666666666666666",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        },
+                        "B": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.03333333333333333"
+                        },
+                        "C": {
+                            "number_of_letter": "9",
+                            "percentage_of_letter": "0.3"
+                        },
+                        "D": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.03333333333333333"
+                        },
+                        "E": {
+                            "number_of_letter": "19",
+                            "percentage_of_letter": "0.6333333333333333"
+                        }
+                    }
+                },
+                "logicalReasoning": {
+                    "num_total": "59",
+                    "num_correct": "12",
+                    "accuracy": "0.2033898305084746",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.01694915254237288"
+                        },
+                        "B": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.01694915254237288"
+                        },
+                        "C": {
+                            "number_of_letter": "48",
+                            "percentage_of_letter": "0.8135593220338984"
+                        },
+                        "D": {
+                            "number_of_letter": "7",
+                            "percentage_of_letter": "0.11864406779661017"
+                        },
+                        "E": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.03389830508474576"
+                        }
+                    }
+                }
+            }
+        },
+        "average_accuracy": "0.3081232492997199",
+        "ground_truth_distribution": {
+            "A": {
+                "number_of_letter": "15",
+                "percentage_of_letter": "0.12605042016806722"
+            },
+            "B": {
+                "number_of_letter": "28",
+                "percentage_of_letter": "0.23529411764705882"
+            },
+            "C": {
+                "number_of_letter": "26",
+                "percentage_of_letter": "0.2184873949579832"
+            },
+            "D": {
+                "number_of_letter": "25",
+                "percentage_of_letter": "0.21008403361344538"
+            },
+            "E": {
+                "number_of_letter": "25",
+                "percentage_of_letter": "0.21008403361344538"
+            }
+        }
+    },
+    "act.json": {
+        "num_total": "149",
+        "text-davinci-003": {
+            "num_correct": "90",
+            "accuracy": "0.6040268456375839",
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "27",
+                    "percentage_of_letter": "0.18120805369127516"
+                },
+                "B": {
+                    "number_of_letter": "33",
+                    "percentage_of_letter": "0.2214765100671141"
+                },
+                "C": {
+                    "number_of_letter": "39",
+                    "percentage_of_letter": "0.26174496644295303"
+                },
+                "D": {
+                    "number_of_letter": "45",
+                    "percentage_of_letter": "0.30201342281879195"
+                },
+                "E": {
+                    "number_of_letter": "5",
+                    "percentage_of_letter": "0.03355704697986577"
+                }
+            },
+            "categories": {
+                "reading": {
+                    "num_total": "57",
+                    "num_correct": "50",
+                    "accuracy": "0.8771929824561403",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "11",
+                            "percentage_of_letter": "0.19298245614035087"
+                        },
+                        "B": {
+                            "number_of_letter": "13",
+                            "percentage_of_letter": "0.22807017543859648"
+                        },
+                        "C": {
+                            "number_of_letter": "16",
+                            "percentage_of_letter": "0.2807017543859649"
+                        },
+                        "D": {
+                            "number_of_letter": "17",
+                            "percentage_of_letter": "0.2982456140350877"
+                        },
+                        "E": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        }
+                    }
+                },
+                "english": {
+                    "num_total": "75",
+                    "num_correct": "33",
+                    "accuracy": "0.44",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "16",
+                            "percentage_of_letter": "0.21333333333333335"
+                        },
+                        "B": {
+                            "number_of_letter": "9",
+                            "percentage_of_letter": "0.12"
+                        },
+                        "C": {
+                            "number_of_letter": "22",
+                            "percentage_of_letter": "0.29333333333333333"
+                        },
+                        "D": {
+                            "number_of_letter": "28",
+                            "percentage_of_letter": "0.37333333333333335"
+                        },
+                        "E": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        }
+                    }
+                },
+                "math": {
+                    "num_total": "17",
+                    "num_correct": "7",
+                    "accuracy": "0.4117647058823529",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        },
+                        "B": {
+                            "number_of_letter": "11",
+                            "percentage_of_letter": "0.6470588235294118"
+                        },
+                        "C": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.058823529411764705"
+                        },
+                        "D": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        },
+                        "E": {
+                            "number_of_letter": "5",
+                            "percentage_of_letter": "0.29411764705882354"
+                        }
+                    }
+                }
+            }
+        },
+        "text-curie-001": {
+            "num_correct": "31",
+            "accuracy": "0.2080536912751678",
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "19",
+                    "percentage_of_letter": "0.12751677852348994"
+                },
+                "B": {
+                    "number_of_letter": "32",
+                    "percentage_of_letter": "0.21476510067114093"
+                },
+                "C": {
+                    "number_of_letter": "76",
+                    "percentage_of_letter": "0.5100671140939598"
+                },
+                "D": {
+                    "number_of_letter": "20",
+                    "percentage_of_letter": "0.1342281879194631"
+                },
+                "E": {
+                    "number_of_letter": "2",
+                    "percentage_of_letter": "0.013422818791946308"
+                }
+            },
+            "categories": {
+                "reading": {
+                    "num_total": "57",
+                    "num_correct": "13",
+                    "accuracy": "0.22807017543859648",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.03508771929824561"
+                        },
+                        "B": {
+                            "number_of_letter": "18",
+                            "percentage_of_letter": "0.3157894736842105"
+                        },
+                        "C": {
+                            "number_of_letter": "35",
+                            "percentage_of_letter": "0.6140350877192983"
+                        },
+                        "D": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.03508771929824561"
+                        },
+                        "E": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        }
+                    }
+                },
+                "english": {
+                    "num_total": "75",
+                    "num_correct": "14",
+                    "accuracy": "0.18666666666666668",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "15",
+                            "percentage_of_letter": "0.2"
+                        },
+                        "B": {
+                            "number_of_letter": "13",
+                            "percentage_of_letter": "0.17333333333333334"
+                        },
+                        "C": {
+                            "number_of_letter": "30",
+                            "percentage_of_letter": "0.4"
+                        },
+                        "D": {
+                            "number_of_letter": "17",
+                            "percentage_of_letter": "0.22666666666666666"
+                        },
+                        "E": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        }
+                    }
+                },
+                "math": {
+                    "num_total": "17",
+                    "num_correct": "4",
+                    "accuracy": "0.23529411764705882",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.11764705882352941"
+                        },
+                        "B": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.058823529411764705"
+                        },
+                        "C": {
+                            "number_of_letter": "11",
+                            "percentage_of_letter": "0.6470588235294118"
+                        },
+                        "D": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.058823529411764705"
+                        },
+                        "E": {
+                            "number_of_letter": "2",
+                            "percentage_of_letter": "0.11764705882352941"
+                        }
+                    }
+                }
+            }
+        },
+        "text-babbage-001": {
+            "num_correct": "42",
+            "accuracy": "0.28187919463087246",
+            "answer_distribution": {
+                "A": {
+                    "number_of_letter": "7",
+                    "percentage_of_letter": "0.04697986577181208"
+                },
+                "B": {
+                    "number_of_letter": "20",
+                    "percentage_of_letter": "0.1342281879194631"
+                },
+                "C": {
+                    "number_of_letter": "118",
+                    "percentage_of_letter": "0.7919463087248322"
+                },
+                "D": {
+                    "number_of_letter": "4",
+                    "percentage_of_letter": "0.026845637583892617"
+                },
+                "E": {
+                    "number_of_letter": "0",
+                    "percentage_of_letter": "0.0"
+                }
+            },
+            "categories": {
+                "reading": {
+                    "num_total": "57",
+                    "num_correct": "14",
+                    "accuracy": "0.24561403508771928",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        },
+                        "B": {
+                            "number_of_letter": "12",
+                            "percentage_of_letter": "0.21052631578947367"
+                        },
+                        "C": {
+                            "number_of_letter": "45",
+                            "percentage_of_letter": "0.7894736842105263"
+                        },
+                        "D": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        },
+                        "E": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        }
+                    }
+                },
+                "english": {
+                    "num_total": "75",
+                    "num_correct": "25",
+                    "accuracy": "0.3333333333333333",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "7",
+                            "percentage_of_letter": "0.09333333333333334"
+                        },
+                        "B": {
+                            "number_of_letter": "8",
+                            "percentage_of_letter": "0.10666666666666667"
+                        },
+                        "C": {
+                            "number_of_letter": "57",
+                            "percentage_of_letter": "0.76"
+                        },
+                        "D": {
+                            "number_of_letter": "3",
+                            "percentage_of_letter": "0.04"
+                        },
+                        "E": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        }
+                    }
+                },
+                "math": {
+                    "num_total": "17",
+                    "num_correct": "3",
+                    "accuracy": "0.17647058823529413",
+                    "answer_distribution": {
+                        "A": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        },
+                        "B": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        },
+                        "C": {
+                            "number_of_letter": "16",
+                            "percentage_of_letter": "0.9411764705882353"
+                        },
+                        "D": {
+                            "number_of_letter": "1",
+                            "percentage_of_letter": "0.058823529411764705"
+                        },
+                        "E": {
+                            "number_of_letter": "0",
+                            "percentage_of_letter": "0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "average_accuracy": "0.36465324384787473",
+        "ground_truth_distribution": {
+            "A": {
+                "number_of_letter": "36",
+                "percentage_of_letter": "0.24161073825503357"
+            },
+            "B": {
+                "number_of_letter": "34",
+                "percentage_of_letter": "0.22818791946308725"
+            },
+            "C": {
+                "number_of_letter": "35",
+                "percentage_of_letter": "0.2348993288590604"
+            },
+            "D": {
+                "number_of_letter": "40",
+                "percentage_of_letter": "0.2684563758389262"
+            },
+            "E": {
+                "number_of_letter": "4",
+                "percentage_of_letter": "0.026845637583892617"
+            }
+        }
+    }
+}

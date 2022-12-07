@@ -1,37 +1,27 @@
-import os
 import json
-import scipy
-import pandas as pd
+from pprint import pprint
+from collections import defaultdict
+
 import numpy as np
+import pandas as pd
+
 
 # get answers for each model from each dataset
 def getAnswersJson():
-    files=['myers-briggs.json','lsat.json','psychopath-screening.json']
+    files=['myers-briggs.json','lsat.json','psychopath-screening.json', 'act.json']
     models = ['text-davinci-003', 'text-curie-001', 'text-babbage-001']
     # get data from data folder 
     for file in files:
         with open('../data/' + file) as json_file:
             data = json.load(json_file)
             # get answers for each file
-            answers = getAnswers2(file, data, models)
+            answers = getAnswers(file, data, models)
             # write answers to csv
             filename = file.split('.')[0] + '-answers.csv'
             answers.to_csv(f'../data/{filename}')
     return
 
-def getAnswersJson2():
-    files=['myers-briggs.json','lsat.json','psychopath-screening.json']
-    models = ['text-davinci-003', 'text-curie-001', 'text-babbage-001']
-    # get data from data folder
-    for file in files:
-        with open('../data/' + file) as json_file:
-            data = json.load(json_file)
-            # get answers for each file
-            answers = getAnswers2(file, data, models)
-            # write answers to csv
-
-    return
-def getAnswers2(file, data, models):
+def getAnswers(file, data, models):
     if file == 'lsat.json':
         answers = pd.DataFrame(columns=['Test','Category', 'Answer'] + models)
         categories = ['readingComprehension', 'analyticalReasoning', 'logicalReasoning']
@@ -44,7 +34,27 @@ def getAnswers2(file, data, models):
                         row.append(data[category][j]['questions'][k][f'{model} Answer'])
                         # turn dictionary into dataframe
                     answers.loc[len(answers.index)]=row
-
+    elif file == 'act.json':
+        answers = pd.DataFrame(columns=['Test','Category', 'Answer'] + models)
+        categories = ['reading', 'english', 'math']
+        for category in categories:
+            if category == 'math':
+                for k in range(len(data[category])):
+                    row = [file[:-5], category, data[category][k]['answer']]
+                    for model in models:
+                        # get answers from json
+                        row.append(data[category][k][f'{model} Answer'])
+                        # turn dictionary into dataframe
+                    answers.loc[len(answers.index)]=row
+            else:
+                for j in range(len(data[category])):
+                    for k in range(len(data[category][j]['questions'])):
+                        row = [file[:-5],category, data[category][j]['questions'][k]['answer']]
+                        for model in models:
+                            # get answers from json
+                            row.append(data[category][j]['questions'][k][f'{model} Answer'])
+                            # turn dictionary into dataframe
+                        answers.loc[len(answers.index)]=row
     else:
         answers = pd.DataFrame(columns= ['Test']+models)
         for i in range(len(data['questions'])):
@@ -53,59 +63,66 @@ def getAnswers2(file, data, models):
                 # get answers from json
                 row.append(data['questions'][i][f'{model} Answer'])
             answers.loc[len(answers.index)] = row
-    # print(answers)
-    return answers
-
-def getAnswers(file, data, models):
-    if file == 'lsat.json':
-        categories = ['readingComprehension', 'analyticalReasoning', 'logicalReasoning']
-        answers = {model: {category: [] for category in categories} for model in models}
-        for category in categories:
-            answerList = []
-            for j in range(len(data[category])):
-                for k in range(len(data[category][j]['questions'])):
-                    for model in models:
-                        # get answers from json
-                        answer = data[category][j]['questions'][k][f'{model} Answer']
-                        answerList.append(answer)
-                        # append answers to dataframe
-                        answers[model][category] = pd.Series(answerList)
-                        # turn dictionary into dataframe
-                        answers = pd.DataFrame(answers)
-
-    else:
-        answers = pd.DataFrame({model: [] for model in models})
-        for model in models:
-            answerList = []
-            for i in range(len(data['questions'])):
-                # get answers from json
-                answer = data['questions'][i][f'{model} Answer']
-                answerList.append(answer)
-
-                # append answers to dataframe
-                answers[model] = pd.Series(answerList)
-    # print(answers)
     return answers
 
 # get statistics for each model on each dataset
-def getStatistics(models,file):
-    # get answers for each dataset
+def getStatistics(files, models):
+    infinite_defaultdict = lambda: defaultdict(infinite_defaultdict)
+    stats = defaultdict(infinite_defaultdict)
+    for file, categories in files.items():
+        # get answers for each dataset
+        with open('../data/' + file) as json_file:
+            data = json.load(json_file)
+            answers = getAnswers(file, data, models)
 
-    with open('../data/' + file) as json_file:
-        data = json.load(json_file)
-        # get answers for each file
-        answers = getAnswers2(file, data, models)
-    return np.mean(answers[models[0]]==answers['Answer'])
-# get accuracy for each model from each dataset
-# get average accuracy for each model
-# get average accuracy for each dataset
-# get average accuracy for each model for each dataset
+            num_total = len(answers)
+            stats[file]['num_total'] = str(num_total)
 
+            for model in models:
+                num_correct = np.sum(answers[model]==answers['Answer'])
+                stats[file][model]['num_correct'] = str(num_correct)
 
-# with open('../data/lsat.json') as json_file:
-#     data = json.load(json_file)
-# getAnswers('lsat.json', data, ['text-davinci-003', 'text-curie-001', 'text-babbage-001'])
+                stats[file][model]['accuracy'] = str(num_correct / num_total)
 
-file='lsat.json'
-models = ['text-davinci-003', 'text-curie-001', 'text-babbage-001']
-print(getStatistics(models,file))
+                for letter in ['A','B','C','D', 'E']:
+                    number_of_letter = np.sum(answers[model] == letter)
+                    stats[file][model]['answer_distribution'][letter]['number_of_letter'] = str(number_of_letter)
+                    stats[file][model]['answer_distribution'][letter]['percentage_of_letter'] = str(number_of_letter / num_total)
+
+                for category in categories:
+                    relevant_answers = answers[answers['Category'] == category]
+
+                    num_total_category = len(relevant_answers)
+                    stats[file][model]['categories'][category]['num_total'] = str(num_total_category)
+
+                    num_correct_category = np.sum(relevant_answers[model] == relevant_answers['Answer'])
+                    stats[file][model]['categories'][category]['num_correct'] = str(num_correct_category)
+
+                    stats[file][model]['categories'][category]['accuracy'] = str(num_correct_category / num_total_category)
+
+                    for letter in ['A','B','C','D', 'E']:
+                        number_of_letter_category = np.sum(relevant_answers[model] == letter)
+                        stats[file][model]['categories'][category]['answer_distribution'][letter]['number_of_letter'] = str(number_of_letter_category)
+                        stats[file][model]['categories'][category]['answer_distribution'][letter]['percentage_of_letter'] = str(number_of_letter_category / num_total_category)
+
+            average_accuracy = np.mean([float(stats[file][model]['accuracy']) for model in models])
+            stats[file]['average_accuracy'] = str(average_accuracy)
+
+            for letter in ['A','B','C','D', 'E']:
+                number_of_letter = np.sum(answers['Answer']==letter)
+                stats[file]['ground_truth_distribution'][letter]['number_of_letter'] = str(number_of_letter)
+                stats[file]['ground_truth_distribution'][letter]['percentage_of_letter'] = str(number_of_letter / num_total)
+    return stats
+
+if __name__ == '__main__':
+    # uncomment to repopulate answer csv files
+    # getAnswersJson()
+
+    files = {
+        'lsat.json': ['readingComprehension', 'analyticalReasoning', 'logicalReasoning'], 
+        'act.json': ['reading', 'english', 'math'],
+    }
+    models = ['text-davinci-003', 'text-curie-001', 'text-babbage-001']
+    stats = getStatistics(files, models)
+    with open('../data/stats.json', 'w') as json_file:
+        json.dump(dict(stats), json_file, indent=4)
