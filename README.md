@@ -158,7 +158,7 @@ This figure shows the score for each of the models (text-davinci-003, text-curie
 |text-babbage-001|[ENTP](/results/myers-briggs-results/myers-briggs-text-babbage-001.html)|
 |Connor|ENTP|
 <p align=center><b>Figure 4:</b>
-The four letter personality score is reported for each model. Links will take you to the specific report of their scores, which covers their meaning in more detail. In general, it's Extroversion (E) vs Introversion (I), Sensing (S) vs Intuition (N), Thinking (T) vs Feeling (F), Judging (J) vs Perceiving (P). The four letters represent one of 16 possible personality configurations. For example, Davinci is an ESFP, which means that it is extroverted, sensing, feeling, and perceiving.
+The four letter personality score is reported for each model. Links will take you HTML code with the specific report for the profile, which covers their meaning in more detail. We couldn't get this to load into your browser automatically, but if you download and open it you can view it. In general, it's Extroversion (E) vs Introversion (I), Sensing (S) vs Intuition (N), Thinking (T) vs Feeling (F), Judging (J) vs Perceiving (P). The four letters represent one of 16 possible personality configurations. For example, Davinci is an ESFP, which means that it is extroverted, sensing, feeling, and perceiving.
 
 </p>
 
